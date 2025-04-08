@@ -1,0 +1,243 @@
+{
+    "questions": [
+        {
+            "id": "#",
+            "question": "In given questions, each passage consist of six sentences. The first and sixth sentence are given in the begining. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences.",
+            "options": [
+                "<b> Click here</b> if you have reviewed all the instructions and question details."
+            ],
+            "correct": 0
+        },
+        {
+            "id": 1,
+            "question": "S1: <a> In the middle of one side of the square sits the Chairman of the committee, the most important person in the room. </a> <br> P: <a>For a committee is not just a mere collection of individuals. </a> <br> Q: <a>On him rests much of the responsibility for the success or failure of the committee. </a> <br> R: <a>While this is happening we have an opportunity to get the 'feel' of this committee. </a> <br> S: <a>As the meeting opens, he runs briskly through a number of formalities. </a> <br> S6:<a> From the moment its members meet, it begins to have a sort of nebulous life of its own. </a> <br> The Proper sequence should be:",
+            "options": [
+                "RSQP",
+                "PQRS",
+                "SQPR",
+                "QSRP"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 2,
+            "question": "S1: <a> A force exists between everybody in the universe. </a> <br> P: <a> Normally it is very small but when one of the bodies is a planet, like Earth, the force is considerable. </a> <br> Q: <a> It has been investigated by many scientists including Galileo and Newton. </a> <br> R: <a> Everything on or near the surface of the Earth is attracted by the mass of the Earth. </a> <br> S: <a> This gravitational force depends on the mass of the bodies involved. </a> <br> S6: <a> The greater the mass, the greater is the Earth's force of attraction on it. We can call this force of attraction gravity. </a> <br> The Proper sequence should be:",
+            "options": [
+                "PRQS",
+                "PRSQ",
+                "QSRP",
+                "QSPR"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 3,
+            "question": "S1: <a> Calcutta, unlike other cities, kept its trams. </a> <br> P: <a> As a result, there was horrendous congestion. </a> <br> Q: <a> It was going to be the first in South Asia. </a> <br> R: <a> They run down the centre of the road. </a> <br> S: <a> To ease it, the city decided to build an underground railway line. </a> <br> S6: <a> The foundation stone was laid in 1972. </a> <br> The Proper sequence should be:",
+            "options": [
+                "PRSQ",
+                "PSQR",
+                "SQRP",
+                "RPSQ"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 4,
+            "question": "S1: <a> For some time in his youth, Abraham Lincoln was manager for a shop. </a> <br> P: <a> Then a chance customer would come. </a> <br> Q: <a> Young Lincoln's way of keeping shop was entirely unlike anyone else's. </a> <br> R: <a> Lincoln would jump up, attend to his needs, and then revert to his reading. </a> <br> S: <a> He used to lie full length on the counter of the shop eagerly reading a book. </a> <br> S6: <a> Never before had Lincoln had so much time for reading as then. </a> <br> The Proper sequence should be:",
+            "options": [
+                "SRQP",
+                "QSPR",
+                "SQRP",
+                "QPSR"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 5,
+            "question": "S1: <a> All the land was covered by the ocean. </a> <br> P: <a> The leading god fought the monster, killed it, and chopped its body into two halves. </a> <br> Q: <a> A terrible monster prevented the gods from separating the land from the water. </a> <br> R: <a> The god made the sky out of the upper part of the body and ornamented it with stars. </a> <br> S: <a> The god created the earth from the lower part, grew plants on it, and populated it with animals. </a> <br> S6: <a> The god molded the first people out of clay according to his own image and mind. </a> <br> The Proper sequence should be:",
+            "options": [
+                "PQRS",
+                "PQSR",
+                "QPSR",
+                "QPRS"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 6,
+            "question": "S1: <a> Smoke oozed up between the planks. </a> <br> P: <a> Passengers were told to be ready to quit the ship. </a> <br> Q: <a> The rising gale fanned the smouldering fire. </a> <br> R: <a> Everyone now knew there was fire on board. </a> <br> S: <a> Flames broke out here and there. </a> <br> S6: <a> Most people bore the shock bravely. </a> <br> The Proper sequence should be:",
+            "options": [
+                "SRQP",
+                "QPSR",
+                "RSPQ",
+                "QSRP"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 7,
+            "question": "S1: <a> You know my wife, Madhavi, always urged me to give up smoking. </a> <br> P: <a> I really gave it up. </a> <br> Q: <a> And so when I went to jail, I said to myself I really must give it up, if for no other reason than of being self-reliant. </a> <br> R: <a> When I emerged from jail, I wanted to tell her of my great triumph. </a> <br> S: <a> But when I met her, there she was with a packet of cigarettes. </a> <br> S6: <a> Poor girl! </a> <br> The Proper sequence should be:",
+            "options": [
+                "PSRQ",
+                "SPQR",
+                "QPRS",
+                "RSPQ"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 8,
+            "question": "S1: <a> When a satellite is launched, the rocket begins by going slowly upwards through the air. </a> <br> P: <a> However, the higher it goes, the less air it meets. </a> <br> Q: <a> As the rocket goes higher, it travels faster. </a> <br> R: <a> For the atmosphere becomes thinner. </a> <br> S: <a> As a result, there is less friction. </a> <br> S6: <a> Consequently, the rocket still does not become too hot. </a> <br> The Proper sequence should be:",
+            "options": [
+                "QPRS",
+                "QSPR",
+                "PQRS",
+                "PQSR"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 9,
+            "question": "S1: <a> A father, having offered to take the baby out in a perambulator, was tempted by the sunny morning to slip into a pub for a glass of beer. </a> <br> P: <a> Indignant at her husband's behaviour, she decided to teach him a lesson. </a> <br> Q: <a> She wheeled away the pram. </a> <br> R: <a> A little later, his wife came by, where to her horror, she discovered her sleeping baby. </a> <br> S: <a> Leaving the pram outside, he disappeared inside the bar. </a> <br> S6: <a> She waited for him, anticipating the white face and quivering lips which would soon appear with the news that the baby had been stolen. </a> <br> The Proper sequence should be:",
+            "options": [
+                "SRPQ",
+                "RQPS",
+                "SPQR",
+                "PQSR"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 10,
+            "question": "S1: <a> The city is almost a slum and stinks most of the time. </a> <br> P: <a> The slush on the road did not deter them. </a> <br> Q: <a> The occasional slips and falls were considered a small price to pay for the trip. </a> <br> R: <a> They were excited, fascinated by the sight of fresh snow on the roads. </a> <br> S: <a> Even so, it looked beautiful to tourists of various categories. </a> <br> S6: <a> But some visitors came away with the unforgettable sight of young labours scantily clad. </a> <br> The Proper sequence should be:",
+            "options": [
+                "RQPS",
+                "QPRS",
+                "RSQP",
+                "SPQR"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 11,
+            "question": "S1: <a> Venice is a strange and beautiful city in the north of Italy. </a> <br> P: <a> There are about four hundred old stone bridges joining the island of Venice. </a> <br> Q: <a> In this city there are no motor cars, no horses, no buses. </a> <br> R: <a> These small islands are near one another. </a> <br> S: <a> It is not an island but a hundred and seventeen islands. </a> <br> S6: <a> This is because Venice has no streets. </a> <br> The Proper sequence should be:",
+            "options": [
+                "PQRS",
+                "PRQS",
+                "SRPQ",
+                "PQSR"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 12,
+            "question": "S1: <a> The Hound of Baskervilles was feared by the people of the area. </a> <br> P: <a> Some people spoke of seeing a huge, shadowy form of a Hound at midnight on the moor. </a> <br> Q: <a> But they spoke of it in tones of horror. </a> <br> R: <a> Nobody had actually seen the hound. </a> <br> S: <a> This shadowy form did not reveal any details about the animal. </a> <br> S6: <a> The Hound of Baskervilles remains an unsolved mystery. </a> <br> The Proper sequence should be:",
+            "options": [
+                "SPQR",
+                "SPRQ",
+                "PSRQ",
+                "PQRS"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 13,
+            "question": "S1: <a> A gentleman who lived alone always had two plates placed on the table at dinner time. </a> <br> P: <a> One day just as he sat down to dine, the cat rushed into the room. </a> <br> Q: <a> One plate was for himself and the other was for his cat. </a> <br> R: <a> She dropped a mouse into her own plate and another into her master's plate. </a> <br> S: <a> He used to give the cat a piece of meat from his own plate. </a> <br> S6: <a> In this way, the cat showed her gratitude to her master. </a> <br> The Proper sequence should be:",
+            "options": [
+                "QSPR",
+                "PSRQ",
+                "QRSP",
+                "RPQS"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 14,
+            "question": "S1: <a> Ants eat worms, centipedes, and spiders. </a> <br> P: <a> They are usually much quicker than the ant itself. </a> <br> Q: <a> Nevertheless, these animals do not make easy game for ants. </a> <br> R: <a> Besides, they have an extraordinary number of ways of escaping. </a> <br> S: <a> They also eat larvae and insect adults such as flies, moths, and springtails. </a> <br> S6: <a> Some jump, and some give out a pungent repellent substance. </a> <br> The Proper sequence should be:",
+            "options": [
+                "SQPR",
+                "SPRQ",
+                "SQRP",
+                "SRQP"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 15,
+            "question": "S1: <a> Satyajit Ray made several films for children. </a> <br> P: <a> Later filmmakers have followed his lead. </a> <br> Q: <a> Today other nations are making children's films in a big way. </a> <br> R: <a> This was at a time when no director considered children as potential audience. </a> <br> S: <a> Ray was, thus, a pioneer in the field. </a> <br> S6: <a> But today few think of Ray as a maker of children's films. </a> <br> The Proper sequence should be:",
+            "options": [
+                "PSRQ",
+                "RSQP",
+                "RSPQ",
+                "SQRP"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 16,
+            "question": "S1: <a> Hungary, with a population of about 10 million, lies between Czechoslovakia to the north and Yugoslavia to the south. </a> <br> P: <a> Here a great deal of grain is grown. </a> <br> Q: <a> In recent years, however, progress has been made also in the field of industrialisation. </a> <br> R: <a> Most of this country consists of an extremely fertile plain, through which the river Danube flows. </a> <br> S: <a> In addition to grain, the plain produces potatoes, sugar, wine, and livestock. </a> <br> S6: <a> The new industries derive mainly from agricultural production. </a> <br> The Proper sequence should be:",
+            "options": [
+                "QRSP",
+                "RPSQ",
+                "PRSQ",
+                "RQSP"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 17,
+            "question": "S1: <a> Palaeobotany is the study of fossil plants preserved in rocks dating back millions of years. </a> <br> P: <a> Records of the history of the world are contained in fossils. </a> <br> Q: <a> Through the ages, plants have evolved from simple to more complex forms. </a> <br> R: <a> First there were water plants; then land plants appeared during the Paleozoic era. </a> <br> S: <a> But since the fossil remains appear locked in rock layers, they are closely related to the geologist's area of investigation. </a> <br> S6: <a> The fossil plants indicate the age of the rock and also point to facts regarding climate, temperature, and topography. </a> <br> The Proper sequence should be:",
+            "options": [
+                "RQSP",
+                "SQRP",
+                "PSQR",
+                "QRPS"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 18,
+            "question": "S1: <a> On vacation in Tangier, Morocco, my friend and I sat down at a street cafe. </a> <br> P: <a> At one point, he bent over with a big smile, showing me a single gold tooth and a dingy fez. </a> <br> Q: <a> Soon I felt the presence of someone standing alongside me. </a> <br> R: <a> But this one wouldn't budge. </a> <br> S: <a> We had been cautioned about beggars and were told to ignore them. </a> <br> S6: <a> Finally, a man walked over to me and whispered, \"Hey buddy, this guy is your waiter and he wants your order.\" </a> <br> The Proper sequence should be:",
+            "options": [
+                "SQRP",
+                "SQPR",
+                "QSRP",
+                "QSPR"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 19,
+            "question": "S1: <a> And then Gandhi came. </a> <br> P: <a> Get off the backs of these peasants and workers, he told us, all you who live by their exploitation. </a> <br> Q: <a> He was like a powerful current of fresh air, like a beam of light, like a whirlwind that upset many things. </a> <br> R: <a> He spoke their language and constantly drew their attention to their appalling conditions. </a> <br> S: <a> He didn't descend from the top; he seemed to emerge from the masses of India. </a> <br> S6: <a> Political freedom took new shape and then acquired a new content. </a> <br> The Proper sequence should be:",
+            "options": [
+                "QSRP",
+                "SRQP",
+                "RSQP",
+                "PRSQ"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 20,
+            "question": "S1: <a> Biological evolution has not fitted man to any specific environment. </a> <br> P: <a> It is by no means a biological evolution, but it is a cultural one. </a> <br> Q: <a> His imagination, his reason, his emotional subtlety and toughness make it possible for him not to accept the environment but to change. </a> <br> R: <a> And that series of inventions by which man from age by age has reshaped his environment is a different kind of evolution. </a> <br> S: <a> Among the multitude of animals which scamper, burrow, swim around us, he is the only one who is not locked into his environment. </a> <br> S6: <a> That brilliant sequence of cultural peaks can most appropriately be termed the ascent of man. </a> <br> The Proper sequence should be:",
+            "options": [
+                "QPRS",
+                "SRQP",
+                "QRSP",
+                "SQRP"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 21,
+            "question": "S1: <a> The dictionary is the best friend of your task. </a> <br> P: <a> That may not be possible always. </a> <br> Q: <a> It is wise to look it up immediately. </a> <br> R: <a> Then it must be firmly written on the memory and traced at the first opportunity. </a> <br> S: <a> Never allow a strange word to pass unchallenged. </a> <br> S6: <a> Soon you will realize that this is an exciting task. </a> <br> The Proper sequence should be:",
+            "options": [
+                "PQRS",
+                "SPQR",
+                "QRPS",
+                "SQPR"
+            ],
+            "correct": 3
+        }
+    ]
+}

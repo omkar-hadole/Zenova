@@ -1,0 +1,120 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "The bar graph represents the number of persons joining and leaving the Kings Gym at the beginning of the month for 6 months. The initial strength of the gym last December was 750, out of which 500 were males.<br><br>The table chart represents the ratio of male: female for joined and left persons.<br><br>What is the ratio of males to females for joined and left persons?",
+            "options": [
+                "500:482",
+                "383:592",
+                "592:383",
+                "328:529"
+            ],
+            "correct": 2,
+            "image": "qusImage/Logic_and_DataInterpretation_2_1.png"
+        },
+        {
+            "id": 2,
+            "question": "Eight sportsmen—P, S, Q, R, U, B, J, and C—are sitting in a field in a circle at equal distances. Three sportsmen on the circle are facing the opposite side, and the other five are sitting facing the centre of the circle.<br><br>S is sitting to the third right of B. R is not near to C. Q is sitting to the third left of R, who is second right of P, and among these three players, one is facing opposite to the centre of the circle. Two sportsmen are sitting between C and U, and two are sitting between B and U. Q is sitting to the second left of J, who is facing the centre of the circle. S is facing the centre of the circle. U is not opposite to B and Q.<br><br>Who is sitting 3rd to the right of C?",
+            "options": [
+                "R",
+                "U",
+                "P",
+                "Q",
+                "A"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 3,
+            "question": "The values in Box 1 are coded as the values at their respective positions in Box 2 based on the following conditions:<br><br>Conditions:<br>1. If a grid does not contain vowels:<br>&emsp;i. If the number attached is even, interchange the position of the first and third letters and subtract 5 from the number.<br>&emsp;ii. If the number attached is odd, interchange the position of the second and third letters and add 3 to the number.<br>2. If a grid does not contain consonants:<br>&emsp;i. If the number attached is a multiple of 4, change the letters to their reverse letters as per the alphabet series and add 2 to both digits of the number.<br>&emsp;ii. If the number attached is not a multiple of 4, change the letters to the reverse letter of their immediately succeeding letter as per the alphabet series.<br>3. If a grid contains both vowels and consonants:<br>&emsp;i. If the number attached is composite, change the vowel to its immediate next consonant and the consonant to its just previous vowel.<br>&emsp;ii. If the number attached is prime, change the vowels to their immediately preceding letters and consonants to their immediately succeeding letters and add 10 to the number.<br><br>As per the given illustration and conditions, find the values of Box 2 for the following:<br><br>What are the codes for MAC44 and LIP43 respectively in Box 2?",
+            "options": [
+                "SON13 and MHQ53",
+                "IBA44 and MHQ43",
+                "IBA44 and VRG45",
+                "IBA44 and MHQ53"
+            ],
+            "correct": 3,
+            "image": "qusImage/Logic_and_DataInterpretation_2_3.png"
+        },
+        {
+            "id": 4,
+            "question": "Boxes P, Q, R, S, T, U, V, W, L, and E are placed one above the other. Some of the boxes contain different numbers of balls. No two boxes have the same number of balls.<br><br>There are four boxes between Box W and Box T, which is at the topmost position. Two boxes are placed between Box W and Box V. One box is placed between Box V and Box Q, which has 12 balls. One box is placed between Box R and Box Q. The box placed immediately below Box V contains one ball more than Box S. Two boxes are placed between Box R and Box S. Box S is not placed immediately below the box that has an even number of balls. Box S has 9 balls. A minimum of one box is placed between the topmost box and Box S.<br><br>Box P is placed at a position that is a multiple of 3, and there are three boxes between P and W. Box L is placed immediately above Box E. The number of balls in Boxes L, V, and E corresponds to their position numbers. The ratio of balls in Box P, Box Q, and Box R is 3:1:2, respectively, and the sum of the balls in Boxes S and W is 27. The number of balls in Box T is double its position number.<br><br>Determine the total number of balls present in all of the boxes.<br><br>(Note: There might be an error in the question or options, so double-check calculations.)",
+            "options": [
+                "142",
+                "140",
+                "118",
+                "122"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 5,
+            "question": "The following line graph gives the information about sugarcane produced (in 00’s ton) in Gujarat during the five consecutive years.<br>The table given below gives the information about the ratio of sugarcane bought by the government to that sold in the open market.<br>Determine the ratio of the total amount of sugarcane bought by the government to the total amount of sugarcane sold in the open market?",
+            "options": [
+                "1067:938",
+                "1060:900",
+                "1067:933",
+                "1062:933"
+            ],
+            "correct": 2,
+            "image": "qusImage/Logic_and_DataInterpretation_2_5.png"
+        },
+        {
+            "id": 6,
+            "question": "A person travels daily for eight hours for 5 days to cover a certain distance. The following pie chart shows the percentage of total distance traveled by him in 5 different modes on Day 1 (M1, M2, M3, M4, and M5), and the percentage of distance traveled by him with the same modes remained the same as shown in the pie diagram, from Day 1 to Day 5.<br>The following bar graph shows the speed of M5 during the five days:<br>Further, the data table below gives information about the percentage of total time taken on each day to travel by Mode 5 (M5).<br><br>What is the sum of the total distance traveled by the person during the five days? <br><br>(Note: There might be an error in the question or options, so double-check calculations.)",
+            "options": [
+                "2062.3",
+                "2132.3",
+                "2032.3",
+                "2162.3"
+            ],
+            "correct": "2032.3",
+            "image": "qusImage/Logic_and_DataInterpretation_2_6.png"
+        },
+        {
+            "id": 7,
+            "question": "Consider the following series.<br><br> 210, 55, 9, 336, 109, 18, 454, 191, 39, 720, 307, 78 <br><br>Find the wrong number in the series?",
+            "options": [
+                "10th term",
+                "7th term",
+                "5th term",
+                "12th term"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 8,
+            "question": "In a class, six students - Piya, Vina, Rima, Sima, Tiya, and Uma got the top six ranks such that no two of them got the same rank, and they are wearing different colored dresses among - Red, Black, Violet, Mauve, Magenta, and Pink.<br>(i) The number of students whose ranks are between the ranks of Sima and the person who is wearing a Magenta-colored dress is two.<br>(ii) Rima is wearing a Mauve-colored dress, but Uma is not wearing a Violet-colored dress.<br>(iii) At least one student got a rank between the ranks of any two of Vina, Tiya, and Uma, and at most one of Vina, Tiya, and Uma got either the first rank or the sixth rank.<br>(iv) The students wearing Black- and Magenta-colored dresses got consecutive ranks.<br>(v) The number of students whose ranks are between the ranks of Tiya and the student wearing a Pink-colored dress is two.<br>(vi) The person who wears a Red dress is ranked 1st, and the person who wears a Mauve dress is ranked last.<br><br>What will be Vina’s rank?",
+            "options": [
+                "1st",
+                "3rd",
+                "5th",
+                "None of these"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 9,
+            "question": "Following are the conditions for appointment for the post of Principals in ABC Vidyalaya Samiti.<br>(i) A candidate should be from one of the categories amongst SC, ST, and OBC.<br>(ii) Be between 35 and 45 years as on 15.09.2003.<br>(iii) Have a Master's Degree from a recognized university with at least 50% marks.<br>(iv) Have a B.Ed or equivalent teaching degree.<br>(v) Be a person working in any of the Govt./Semi-Govt./Govt. recognized/CBSE-affiliated Senior Secondary (10+2) school/Inter college.<br>(vi) Have a minimum of 12 years' experience/service as PGT/Master/Lecturer.<br><br>A candidate who fulfills all conditions except:<br>(a) At (vi) above but has a minimum of 9 years' experience/service as PGT/Master/Lecturer and at least three years' experience as a housemaster of a fully residential school, the case is to be referred to the President, ABC Vidyalaya Samiti.<br>(b) At (iii) above but has at least 47% marks in Master's Degree and has proficiency in English and Hindi and any one of the regional languages, the case is to be referred to the Director of ABC Vidyalaya Samiti.<br>(c) At (ii) above but the age of the candidate is between 35 and 48 years as on 15.09.2003 and has experience of working in a fully residential/CBSE-affiliated/Govt. recognized school, the case is to be referred to the Chairman of ABC Vidyalaya Samiti.<br><br>Based on the above conditions and information provided, determine who among the following candidates is referred to the Director?<br><br>1. Deepak Dubey is an OBC candidate. He has a Master's Degree from a recognized university. He obtained 54% marks in his Master's Degree, quite low in comparison with his B.Ed degree. He has been working in a government senior secondary school as a PGT for the last 14 years. He was born in 1965. He is proficient not only in Hindi and English languages but also in five regional languages.<br>2. Ramesh Kumar has nine years' experience as a PGT. Besides, he has four years' experience as a housemaster of a fully residential school. He is working in a CBSE-affiliated senior secondary (10+2) school. He has the required teaching degree. He has a Master's Degree from a recognized university. He celebrated his fourth birthday on 17.05.1972. He is an SC candidate.<br>3. Sant Bihari, whose date of birth is 10.08.1960, got his Master's Degree with 60% marks from a recognized university in Bihar. He has the required teaching degree. He has ten years' experience as a Lecturer. Besides, he also has three years' experience as a housemaster of a fully residential school. He has been working in a Government Inter college.<br>4. Murli Lal is a candidate of the ST category. His date of birth is 10.09.1957. He has experience working in a fully residential CBSE-affiliated school. He completed his Master's Degree with 62% marks, which was 2% higher than his marks in the B.Ed degree. Now, he has been working in a semi-Govt Inter college. He has twelve years' experience as a PGT.<br>5. Nandini has thirteen years' experience as a PGT. She has been working in a Government Senior Secondary School. She has a B.Ed degree and also a Master's Degree in which she got 49% marks. She is 36 years old. She is a candidate of the OBC category. She has proficiency in English and Hindi in addition to two regional languages.<br><br>Who is referred to the Director?",
+            "options": [
+                "Nandini",
+                "Murli",
+                "Ramesh",
+                "Deepak"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 10,
+            "question": "The following table graphs are given regarding the number of candidates who appeared in a competitive exam for different states over the years.<br><br>The second following table graphs are given regarding the number of candidates who passed in a competitive exam for different states over the years.<br><br>Which of the following states registered a continuous percentage increase with respect to the previous year in the ratio of candidates qualified to those appeared?",
+            "options": [
+                "Assam",
+                "Kerala",
+                "Odisha",
+                "Punjab"
+            ],
+            "correct": 2,
+            "image": "qusImage/Logic_and_DataInterpretation_2_10.png"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "A * B → A is the father of B<br><br>A - B → A is the sister of B<br><br>A + B → A is the mother of B<br><br>A / B → A is the brother of B <br><br>If X + Y * Z - W, then how is W related to X?",
+        "options": [
+          "Son",
+          "Grandson",
+          "Nephew",
+          "Brother"
+        ],
+        "correct": 0
+      },
+      {
+        "id": 2,
+        "question": "Pointing to a photograph, a woman said, \"He is the son of my mother’s only brother’s daughter.\"<br><br>How is the man in the photograph related to the woman?",
+        "options": [
+          "Brother",
+          "Nephew",
+          "Cousin",
+          "Uncle"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 3,
+        "question": "A family consists of six members—P, Q, R, S, T, and U.<br><br>P is the father of R but not the husband of S.<br><br>S is the grandmother of U.<br><br>Q is the mother of R.<br><br>T is the son of Q.<br><br>Who is the husband of S?",
+        "options": [
+          "P",
+          "Q",
+          "R",
+          "Cannot be determined"
+        ],
+        "correct": 3
+      },
+      {
+        "id": 4,
+        "question": "A + B means A is the father of B.<br><br>A - B means A is the mother of B.<br><br>A * B means A is the brother of B.<br><br>What does P + Q * R mean?",
+        "options": [
+          "P is the brother of R",
+          "P is the father of R",
+          "P is the uncle of R",
+          "P is the son of R"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 5,
+        "question": "Pointing to a boy, A says, “He is the son of my father’s only daughter.” How is the boy related to A?",
+        "options": [
+          "Brother",
+          "Uncle",
+          "Son",
+          "Nephew"
+        ],
+        "correct": 2
+      }
+    ]
+  }

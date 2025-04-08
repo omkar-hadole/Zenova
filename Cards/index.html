@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mentors Gallery</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter', sans-serif;
+        }
+
+        body {
+            background: #f8f9fa;
+            color: #333;
+        }
+
+        .mentors-container {
+            max-width: 1200px;
+            margin: 4rem auto;
+            padding: 0 20px;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .section-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #2d3436;
+            margin-bottom: 0.5rem;
+        }
+
+        .section-subtitle {
+            font-size: 1rem;
+            color: #64748b;
+            font-weight: 400;
+        }
+
+        .mentors-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .mentor-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .mentor-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+        }
+
+        .mentor-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+
+        .mentor-image {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-right: 1.5rem;
+            border: 3px solid #fff;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .mentor-info {
+            flex: 1;
+        }
+
+        .mentor-name {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #2d3436;
+            margin-bottom: 0.25rem;
+        }
+
+        .mentor-title {
+            font-size: 0.9rem;
+            color: #64748b;
+            font-weight: 400;
+        }
+
+        .mentor-tags {
+            display: flex;
+            gap: 0.5rem;
+            margin-top: 1rem;
+        }
+
+        .mentor-tag {
+            background: rgba(99, 102, 241, 0.1);
+            color: #6366f1;
+            padding: 0.4rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .mentor-tag.popular {
+            background: #ff7675;
+            color: #fff;
+        }
+
+        .mentor-tag.available {
+            background: #00b894;
+            color: #fff;
+        }
+
+        .mentor-details {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s ease;
+            border-top: 1px solid rgba(0, 0, 0, 0.05);
+            padding-top: 1.5rem;
+        }
+
+        .mentor-bio {
+            font-size: 0.9rem;
+            color: #64748b;
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+        }
+
+        .mentor-skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .skill-tag {
+            background: rgba(99, 102, 241, 0.1);
+            color: #6366f1;
+            padding: 0.4rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .mentor-cta {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .cta-button {
+            flex: 1;
+            padding: 0.8rem 1rem;
+            border-radius: 8px;
+            border: none;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        .cta-button.primary {
+            background: #6366f1;
+            color: #fff;
+        }
+
+        .cta-button.secondary {
+            background: rgba(99, 102, 241, 0.1);
+            color: #6366f1;
+        }
+
+        .cta-button.primary:hover {
+            background: #4f46e5;
+        }
+
+        .cta-button.secondary:hover {
+            background: rgba(99, 102, 241, 0.2);
+        }
+
+        @media (max-width: 768px) {
+            .mentors-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .section-title {
+                font-size: 2rem;
+            }
+        }
+        .back-button {
+            display: inline-block;
+            margin-bottom: 2rem;
+            padding: 0.8rem 1.5rem;
+            background: #6366f1;
+            color: white;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: background 0.3s ease;
+        }
+
+        .back-button:hover {
+            background: #4f46e5;
+        }
+
+        .mentor-card[hidden] {
+            display: none;
+        }
+
+        .mentor-card.full-view {
+            max-width: 800px;
+            margin: 0 auto;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="mentors-container">
+        <div class="section-header">
+            <a href="?" class="back-button" id="backButton" style="display: none;">
+                ← Back to All Mentors
+            </a>
+            <h1 class="section-title" id="pageTitle">Meet Our Mentors</h1>
+            <p class="section-subtitle" id="pageSubtitle">Learn from the best in the industry</p>
+        </div>
+
+        <div class="mentors-grid" id="mentorsGrid">
+            <!-- Mentor Card 1 -->
+            <div class="mentor-card" data-mentor-id="john-carter">
+                <div class="mentor-header">
+                    <img src="https://source.unsplash.com/random/600×600/?businessman" class="mentor-image" alt="John Doe">
+                    <div class="mentor-info">
+                        <h3 class="mentor-name">John Carter</h3>
+                        <p class="mentor-title">Senior Product Manager @Google</p>
+                        <div class="mentor-tags">
+                            <span class="mentor-tag popular">Top Rated</span>
+                            <span class="mentor-tag available">Available Now</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="mentor-details">
+                    <p class="mentor-bio">10+ years experience in product management. Led teams building products used by millions worldwide. Passionate about user-centered design and agile methodologies.</p>
+                    <div class="mentor-skills">
+                        <span class="skill-tag">Product Strategy</span>
+                        <span class="skill-tag">Team Leadership</span>
+                        <span class="skill-tag">Agile</span>
+                        <span class="skill-tag">UX Design</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Mentor Card 2 -->
+            <div class="mentor-card" data-mentor-id="sarah-johnson">
+                <div class="mentor-header">
+                    <img src="https://source.unsplash.com/random/600×600/?entrepreneur" class="mentor-image" alt="Sarah Smith">
+                    <div class="mentor-info">
+                        <h3 class="mentor-name">Sarah Johnson</h3>
+                        <p class="mentor-title">Startup Founder & CEO</p>
+                        <div class="mentor-tags">
+                            <span class="mentor-tag available">Available Now</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="mentor-details">
+                    <p class="mentor-bio">Serial entrepreneur with 3 successful exits. Specializes in startup growth strategies, fundraising, and scaling operations. Mentored 50+ early-stage startups.</p>
+                    <div class="mentor-skills">
+                        <span class="skill-tag">Startups</span>
+                        <span class="skill-tag">Fundraising</span>
+                        <span class="skill-tag">Growth Hacking</span>
+                        <span class="skill-tag">Scaling</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Handle URL parameters
+        const urlParams = new URLSearchParams(window.location.search);
+        const requestedMentor = urlParams.get('mentor');
+
+        // Get DOM elements
+        const backButton = document.getElementById('backButton');
+        const mentorsGrid = document.getElementById('mentorsGrid');
+        const pageTitle = document.getElementById('pageTitle');
+        const pageSubtitle = document.getElementById('pageSubtitle');
+
+        if (requestedMentor) {
+            // Show single mentor view
+            const mentorCard = document.querySelector(`[data-mentor-id="${requestedMentor}"]`);
+            const allCards = document.querySelectorAll('.mentor-card');
+
+            if (mentorCard) {
+                // Hide other cards
+                allCards.forEach(card => {
+                    if (card !== mentorCard) card.hidden = true;
+                });
+
+                // Expand the requested card
+                mentorCard.classList.add('full-view', 'active');
+                const details = mentorCard.querySelector('.mentor-details');
+                details.style.maxHeight = details.scrollHeight + "px";
+
+                // Update page header
+                pageTitle.textContent = mentorCard.querySelector('.mentor-name').textContent;
+                pageSubtitle.textContent = mentorCard.querySelector('.mentor-title').textContent;
+                backButton.style.display = 'inline-block';
+                
+                // Modify grid layout
+                mentorsGrid.style.gridTemplateColumns = '1fr';
+            }
+        }
+
+        // Handle card clicks
+        document.querySelectorAll('.mentor-card').forEach(card => {
+            card.addEventListener('click', function() {
+                if (!requestedMentor) { // Only allow toggle in grid view
+                    document.querySelectorAll('.mentor-card').forEach(otherCard => {
+                        if (otherCard !== this) {
+                            otherCard.classList.remove('active');
+                            otherCard.querySelector('.mentor-details').style.maxHeight = null;
+                        }
+                    });
+
+                    this.classList.toggle('active');
+                    const details = this.querySelector('.mentor-details');
+                    if (details.style.maxHeight) {
+                        details.style.maxHeight = null;
+                    } else {
+                        details.style.maxHeight = details.scrollHeight + "px";
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

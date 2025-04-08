@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zenova</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="stylesheet" href="math.css" />
+  <link rel="shortcut icon" href="../../Dashboard/favicon.png" type="image/x-icon">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2MJQQ25V43"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-2MJQQ25V43');
+    </script>
+</head>
+
+<body>
+  <div class="min-h-screen bg-gray-50">
+    <!-- Sidebar -->
+    <div class="mobile-header">
+      <div class="mobile-logo">
+        <a href="https://zenova.one/?loader"> 
+            <h1>ZENOVA</h1>
+        </a>
+    </div>
+      <div class="hamburger"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="19" viewBox="0 0 22 19"
+        fill="none">
+        <rect width="21.3171" height="3.2439" rx="1.62195" fill="url(#paint0_linear_2018_8)" />
+        <rect y="7.87805" width="21.3171" height="3.2439" rx="1.62195" fill="url(#paint1_linear_2018_8)" />
+        <rect y="15.7561" width="21.3171" height="3.2439" rx="1.62195" fill="url(#paint2_linear_2018_8)" />
+        <defs>
+            <linearGradient id="paint0_linear_2018_8" x1="11" y1="-1.28049" x2="11.0146" y2="7.00085"
+                gradientUnits="userSpaceOnUse">
+                <stop offset="0.389423" stop-color="white" />
+                <stop offset="1" stop-color="#979797" />
+            </linearGradient>
+            <linearGradient id="paint1_linear_2018_8" x1="11" y1="6.59756" x2="11.0146" y2="14.8789"
+                gradientUnits="userSpaceOnUse">
+                <stop offset="0.389423" stop-color="white" />
+                <stop offset="1" stop-color="#979797" />
+            </linearGradient>
+            <linearGradient id="paint2_linear_2018_8" x1="11" y1="14.4756" x2="11.0146" y2="22.757"
+                gradientUnits="userSpaceOnUse">
+                <stop offset="0.389423" stop-color="white" />
+                <stop offset="1" stop-color="#979797" />
+            </linearGradient>
+        </defs>
+    </svg></div>
+  </div>
+
+    <div class="sidebar">
+      <div class="logo-container">
+        <h1>ZENOVA</h1>
+      </div>
+
+      <nav class="nav-menu">
+        <button class="nav-item" onclick="window.location.href='https://zenova.one/?loader';">
+          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M15.524 22C16.777 22 17.852 21.934 18.751 21.735C19.661 21.532 20.449 21.18 21.065 20.565C21.68 19.949 22.032 19.161 22.235 18.251C22.435 17.352 22.5 16.277 22.5 15.024V12C22.5 11.4696 22.2893 10.9609 21.9142 10.5858C21.5391 10.2107 21.0304 10 20.5 10H12.5C11.9696 10 11.4609 10.2107 11.0858 10.5858C10.7107 10.9609 10.5 11.4696 10.5 12V20C10.5 20.5304 10.7107 21.0391 11.0858 21.4142C11.4609 21.7893 11.9696 22 12.5 22H15.524ZM2.5 15.024C2.5 16.277 2.566 17.352 2.766 18.251C2.968 19.161 3.32 19.949 3.936 20.565C4.551 21.18 5.339 21.532 6.249 21.735C6.336 21.754 6.424 21.772 6.512 21.789C7.596 21.999 8.5 21.081 8.5 19.976V12C8.5 11.4696 8.28929 10.9609 7.91421 10.5858C7.53914 10.2107 7.03043 10 6.5 10H4.5C3.96957 10 3.46086 10.2107 3.08579 10.5858C2.71071 10.9609 2.5 11.4696 2.5 12V15.024ZM9.476 2C8.223 2 7.148 2.066 6.249 2.266C5.339 2.468 4.551 2.82 3.935 3.436C3.32 4.051 2.968 4.839 2.765 5.749C2.749 5.824 2.733 5.899 2.719 5.974C2.504 7.073 3.439 8 4.559 8H20.476C21.581 8 22.499 7.096 22.289 6.012C22.2719 5.92409 22.2535 5.83641 22.234 5.749C22.032 4.839 21.68 4.051 21.064 3.435C20.449 2.82 19.661 2.468 18.751 2.265C17.852 2.065 16.777 2 15.524 2H9.476Z"
+              fill="white" fill-opacity="0.5" />
+          </svg>
+          <span>Dashboard</span>
+        </button>
+        <button class="nav-item active" onclick="window.location.href='../../NSAT%20Exam/All%20Subject/subjects.html';">
+          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M21.274 8.1C22.884 6.484 22.815 4.362 21.613 3.062C21.3105 2.73494 20.9452 2.47231 20.5388 2.28982C20.1324 2.10734 19.6934 2.00876 19.248 2C18.299 1.978 17.317 2.34 16.41 3.099C16.3867 3.1183 16.3644 3.13865 16.343 3.16L3.374 16.181C2.81368 16.7438 2.49937 17.5058 2.5 18.3V19.993C2.5 21.094 3.392 22 4.504 22H6.183C6.57789 21.9999 6.96887 21.9219 7.33353 21.7703C7.69819 21.6188 8.02934 21.3968 8.308 21.117L21.274 8.1ZM17.707 5.793C17.6148 5.69749 17.5044 5.62131 17.3824 5.5689C17.2604 5.51649 17.1292 5.4889 16.9964 5.48775C16.8636 5.48659 16.7319 5.5119 16.609 5.56218C16.4862 5.61246 16.3745 5.68671 16.2806 5.7806C16.1867 5.8745 16.1125 5.98615 16.0622 6.10905C16.0119 6.23194 15.9866 6.36362 15.9878 6.4964C15.9889 6.62918 16.0165 6.7604 16.0689 6.8824C16.1213 7.00441 16.1975 7.11475 16.293 7.207L17.293 8.207C17.3852 8.30251 17.4956 8.37869 17.6176 8.4311C17.7396 8.48351 17.8708 8.5111 18.0036 8.51225C18.1364 8.5134 18.2681 8.4881 18.391 8.43782C18.5139 8.38754 18.6255 8.31329 18.7194 8.21939C18.8133 8.1255 18.8875 8.01385 18.9378 7.89095C18.9881 7.76806 19.0134 7.63638 19.0123 7.5036C19.0111 7.37082 18.9835 7.2396 18.9311 7.11759C18.8787 6.99559 18.8025 6.88525 18.707 6.793L17.707 5.793Z"
+              fill="white" />
+          </svg>
+          <span>NSAT Exam</span>
+        </button>
+        <button class="nav-item" onclick="window.location.href='../../Interview/Interview.html';">
+          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M5.5 2C4.70435 2 3.94129 2.31607 3.37868 2.87868C2.81607 3.44129 2.5 4.20435 2.5 5V19C2.5 19.7956 2.81607 20.5587 3.37868 21.1213C3.94129 21.6839 4.70435 22 5.5 22H17.5C18.2956 22 19.0587 21.6839 19.6213 21.1213C20.1839 20.5587 20.5 19.7956 20.5 19V5C20.5 4.20435 20.1839 3.44129 19.6213 2.87868C19.0587 2.31607 18.2956 2 17.5 2H5.5ZM11.5 8C10.4391 8 9.42172 8.42143 8.67157 9.17157C7.92143 9.92172 7.5 10.9391 7.5 12C7.5 13.0609 7.92143 14.0783 8.67157 14.8284C9.42172 15.5786 10.4391 16 11.5 16C12.5609 16 13.5783 15.5786 14.3284 14.8284C15.0786 14.0783 15.5 13.0609 15.5 12C15.5 10.9391 15.0786 9.92172 14.3284 9.17157C13.5783 8.42143 12.5609 8 11.5 8ZM8.846 19.682C9.233 19.267 9.924 19 11.5 19C13.115 19 13.8 19.261 14.18 19.675C14.3616 19.86 14.6079 19.9672 14.867 19.974C15.1261 19.9809 15.3778 19.8869 15.569 19.7118C15.7601 19.5368 15.8758 19.2943 15.8917 19.0356C15.9075 18.7769 15.8223 18.5221 15.654 18.325C14.661 17.24 13.192 17 11.5 17C9.819 17 8.372 17.257 7.383 18.318C7.29344 18.4141 7.22367 18.5268 7.17769 18.6498C7.13171 18.7729 7.11041 18.9037 7.115 19.035C7.1196 19.1663 7.15001 19.2953 7.20448 19.4148C7.25896 19.5343 7.33644 19.6419 7.4325 19.7315C7.52856 19.8211 7.64132 19.8908 7.76435 19.9368C7.88737 19.9828 8.01825 20.0041 8.1495 19.9995C8.28076 19.9949 8.40982 19.9645 8.52933 19.91C8.64883 19.8555 8.75644 19.7781 8.846 19.682Z"
+              fill="white" fill-opacity="0.5" />
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M9.5 12C9.5 11.4696 9.71071 10.9609 10.0858 10.5858C10.4609 10.2107 10.9696 10 11.5 10C12.0304 10 12.5391 10.2107 12.9142 10.5858C13.2893 10.9609 13.5 11.4696 13.5 12C13.5 12.5304 13.2893 13.0391 12.9142 13.4142C12.5391 13.7893 12.0304 14 11.5 14C10.9696 14 10.4609 13.7893 10.0858 13.4142C9.71071 13.0391 9.5 12.5304 9.5 12ZM20.146 22H20.5C21.2956 22 22.0587 21.6839 22.6213 21.1213C23.1839 20.5587 23.5 19.7956 23.5 19V5C23.5 4.20435 23.1839 3.44129 22.6213 2.87868C22.0587 2.31607 21.2956 2 20.5 2H20.146C20.5721 2.37498 20.9133 2.83654 21.1468 3.35388C21.3802 3.87122 21.5007 4.43241 21.5 5V19C21.5007 19.5676 21.3802 20.1288 21.1468 20.6461C20.9133 21.1635 20.5721 21.625 20.146 22Z"
+              fill="white" fill-opacity="0.5" />
+          </svg>
+          <span>Interview</span>
+        </button>
+        <button class="nav-item" onclick="window.location.href='../../Book%20Session/index.html'">
+          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M14.5 22H5.5C4.70435 22 3.94129 21.6839 3.37868 21.1213C2.81607 20.5587 2.5 19.7956 2.5 19V5C2.5 4.20435 2.81607 3.44129 3.37868 2.87868C3.94129 2.31607 4.70435 2 5.5 2H20.5C21.2956 2 22.0587 2.31607 22.6213 2.87868C23.1839 3.44129 23.5 4.20435 23.5 5V19C23.5 19.7956 23.1839 20.5587 22.6213 21.1213C22.0587 21.6839 21.2956 22 20.5 22H14.5ZM5.67 20C5.56 19.687 5.5 19.35 5.5 19V5C5.5 4.65 5.56 4.313 5.67 4H5.5C5.23478 4 4.98043 4.10536 4.79289 4.29289C4.60536 4.48043 4.5 4.73478 4.5 5V19C4.5 19.2652 4.60536 19.5196 4.79289 19.7071C4.98043 19.8946 5.23478 20 5.5 20H5.67ZM9.5 8.015C9.49974 7.88368 9.52534 7.75359 9.57535 7.63216C9.62537 7.51074 9.69881 7.40035 9.79148 7.30731C9.88415 7.21426 9.99424 7.14038 10.1155 7.08989C10.2367 7.03939 10.3667 7.01326 10.498 7.013L18.498 7C18.7632 6.99947 19.0178 7.10432 19.2057 7.29148C19.3936 7.47864 19.4995 7.73278 19.5 7.998C19.5005 8.26322 19.3957 8.51778 19.2085 8.70569C19.0214 8.8936 18.7672 8.99947 18.502 9L10.502 9.013C10.3707 9.01326 10.2406 8.98766 10.1192 8.93764C9.99774 8.88763 9.88735 8.81419 9.79431 8.72152C9.70126 8.62885 9.62738 8.51876 9.57689 8.39753C9.52639 8.27631 9.50026 8.14632 9.5 8.015ZM9.5 12.027C9.49973 11.762 9.6047 11.5076 9.79183 11.32C9.97896 11.1323 10.233 11.0265 10.498 11.026L18.498 11.013C18.7632 11.0125 19.0178 11.1173 19.2057 11.3045C19.3936 11.4916 19.4995 11.7458 19.5 12.011C19.5005 12.2762 19.3957 12.5308 19.2085 12.7187C19.0214 12.9066 18.7672 13.0125 18.502 13.013L10.502 13.026C10.3707 13.0263 10.2406 13.0007 10.1192 12.9506C9.99774 12.9006 9.88735 12.8272 9.79431 12.7345C9.70126 12.6418 9.62738 12.5318 9.57689 12.4105C9.52639 12.2893 9.50026 12.1583 9.5 12.027ZM9.5 16.027C9.49973 15.762 9.6047 15.5076 9.79183 15.32C9.97896 15.1323 10.233 15.0265 10.498 15.026L18.498 15.013C18.7632 15.0125 19.0178 15.1173 19.2057 15.3045C19.3936 15.4916 19.4995 15.7458 19.5 16.011C19.5005 16.2762 19.3957 16.5308 19.2085 16.7187C19.0214 16.9066 18.7672 17.0125 18.502 17.013L10.502 17.026C10.3707 17.0263 10.2406 17.0007 10.1192 16.9506C9.99774 16.9006 9.88735 16.8272 9.79431 16.7345C9.70126 16.6418 9.62738 16.5318 9.57689 16.4105C9.52639 16.2893 9.50026 16.1583 9.5 16.027Z"
+              fill="white" fill-opacity="0.5" />
+          </svg>
+          <span>Book Session</span>
+        </button>
+        <button class="nav-item" onclick="window.location.href='../../Updates/index.html';">
+          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M7.5 8C7.23478 8 6.98043 8.10536 6.79289 8.29289C6.60536 8.48043 6.5 8.73478 6.5 9C6.5 9.26522 6.60536 9.51957 6.79289 9.70711C6.98043 9.89464 7.23478 10 7.5 10H17.5C17.7652 10 18.0196 9.89464 18.2071 9.70711C18.3946 9.51957 18.5 9.26522 18.5 9C18.5 8.73478 18.3946 8.48043 18.2071 8.29289C18.0196 8.10536 17.7652 8 17.5 8H7.5ZM7.5 11C7.23478 11 6.98043 11.1054 6.79289 11.2929C6.60536 11.4804 6.5 11.7348 6.5 12C6.5 12.2652 6.60536 12.5196 6.79289 12.7071C6.98043 12.8946 7.23478 13 7.5 13H13.5C13.7652 13 14.0196 12.8946 14.2071 12.7071C14.3946 12.5196 14.5 12.2652 14.5 12C14.5 11.7348 14.3946 11.4804 14.2071 11.2929C14.0196 11.1054 13.7652 11 13.5 11H7.5ZM7.434 2H17.566C18.452 2 19.216 2 19.828 2.082C20.483 2.17 21.112 2.369 21.621 2.879C22.131 3.389 22.33 4.017 22.418 4.672C22.5 5.284 22.5 6.048 22.5 6.934V13.066C22.5 13.952 22.5 14.716 22.418 15.328C22.33 15.983 22.131 16.612 21.621 17.121C21.111 17.631 20.483 17.83 19.828 17.918C19.216 18 18.452 18 17.566 18H15.554L13.484 21.312C13.3798 21.479 13.2347 21.6167 13.0626 21.7122C12.8905 21.8076 12.6968 21.8577 12.5 21.8577C12.3032 21.8577 12.1095 21.8076 11.9374 21.7122C11.7653 21.6167 11.6202 21.479 11.516 21.312L9.446 18H7.434C6.548 18 5.784 18 5.172 17.918C4.517 17.83 3.888 17.631 3.379 17.121C2.869 16.611 2.67 15.983 2.582 15.328C2.5 14.716 2.5 13.952 2.5 13.066V6.934C2.5 6.048 2.5 5.284 2.582 4.672C2.67 4.017 2.869 3.388 3.379 2.879C3.889 2.369 4.517 2.17 5.172 2.082C5.784 2 6.548 2 7.434 2Z"
+              fill="white" fill-opacity="0.5" />
+          </svg>
+          <span>Updates</span>
+        </button>
+        <button class="nav-item" onclick="window.location.href='../../Comparison/index.html';">
+          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M22.5 12.934V15.066C22.5 15.952 22.5 16.716 22.418 17.328C22.33 17.983 22.131 18.612 21.621 19.121C21.111 19.631 20.483 19.83 19.828 19.918C19.216 20 18.452 20 17.566 20H11.434C10.548 20 9.784 20 9.172 19.918C8.517 19.83 7.888 19.631 7.379 19.121C6.869 18.611 6.67 17.983 6.582 17.328C6.5 16.716 6.5 15.952 6.5 15.066V12.934C6.5 12.048 6.5 11.284 6.582 10.672C6.67 10.017 6.869 9.388 7.379 8.879C7.889 8.369 8.517 8.17 9.172 8.082C9.784 8 10.548 8 11.434 8H17.566C18.452 8 19.216 8 19.828 8.082C20.483 8.17 21.112 8.369 21.621 8.879C22.131 9.389 22.33 10.017 22.418 10.672C22.5 11.284 22.5 12.048 22.5 12.934ZM11.5 14C11.5 13.606 11.5776 13.2159 11.7284 12.8519C11.8791 12.488 12.1001 12.1573 12.3787 11.8787C12.6573 11.6001 12.988 11.3791 13.3519 11.2284C13.7159 11.0776 14.106 11 14.5 11C14.894 11 15.2841 11.0776 15.6481 11.2284C16.012 11.3791 16.3427 11.6001 16.6213 11.8787C16.8999 12.1573 17.1209 12.488 17.2716 12.8519C17.4224 13.2159 17.5 13.606 17.5 14C17.5 14.7956 17.1839 15.5587 16.6213 16.1213C16.0587 16.6839 15.2956 17 14.5 17C13.7044 17 12.9413 16.6839 12.3787 16.1213C11.8161 15.5587 11.5 14.7956 11.5 14Z"
+              fill="white" fill-opacity="0.5" />
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M18.497 7.004C18.21 7 17.917 7 17.619 7H11.38C10.537 7 9.71699 7 9.03799 7.091C8.27199 7.194 7.39799 7.445 6.67099 8.171C5.94399 8.898 5.69299 9.773 5.59099 10.539C5.49999 11.218 5.49999 12.037 5.49999 12.881V15.119C5.49999 15.412 5.49999 15.702 5.50399 15.984C5.44127 15.9812 5.3786 15.9775 5.31599 15.973C4.94299 15.943 4.57099 15.88 4.20899 15.708C3.58803 15.4118 3.08775 14.9112 2.79199 14.29C2.61999 13.93 2.55599 13.557 2.52699 13.184C2.5027 12.7578 2.4937 12.3309 2.49999 11.904V8.934C2.49999 8.048 2.49999 7.284 2.58199 6.672C2.66999 6.017 2.86899 5.388 3.37899 4.879C3.88899 4.369 4.51699 4.17 5.17199 4.082C5.78399 4 6.54799 4 7.43399 4H15.039C15.461 4 15.824 4 16.148 4.07C16.7061 4.19354 17.2173 4.47396 17.6214 4.87824C18.0255 5.28252 18.3057 5.79384 18.429 6.352C18.474 6.552 18.49 6.768 18.497 7.004Z"
+              fill="white" fill-opacity="0.5" />
+          </svg>
+          <span>Comparison</span>
+        </button>
+        <button class="nav-item" onclick="window.location.href='../../Contribute/index.html';">
+          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+            <path
+              d="M12.5 12.5858L16.7426 16.8284L15.3284 18.2426L13.5 16.415V22H11.5V16.413L9.67157 18.2426L8.25736 16.8284L12.5 12.5858ZM12.5 2C16.0934 2 19.0544 4.70761 19.4541 8.19395C21.7858 8.83154 23.5 10.9656 23.5 13.5C23.5 16.3688 21.3036 18.7246 18.5006 18.9776L18.5 17C18.5 13.6863 15.8137 11 12.5 11C9.2616 11 6.62243 13.5656 6.50414 16.7751L6.5 17L6.50039 18.9776C3.69696 18.7252 1.5 16.3692 1.5 13.5C1.5 10.9656 3.21424 8.83154 5.54648 8.19411C5.94561 4.70761 8.90661 2 12.5 2Z"
+              fill="white" fill-opacity="0.5" />
+          </svg>
+          <span>Contribute</span>
+        </button>
+      </nav>
+
+      <button class="settings-button" onclick="window.location.href='../../About%20Us/index.html';">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+          <path d="M3.78307 2.82598L12 1L20.2169 2.82598C20.6745 2.92766 21 3.33347 21 3.80217V13.7889C21 15.795 19.9974 17.6684 18.3282 18.7812L12 23L5.6718 18.7812C4.00261 17.6684 3 15.795 3 13.7889V3.80217C3 3.33347 3.32553 2.92766 3.78307 2.82598ZM12 11C13.3807 11 14.5 9.88071 14.5 8.5C14.5 7.11929 13.3807 6 12 6C10.6193 6 9.5 7.11929 9.5 8.5C9.5 9.88071 10.6193 11 12 11ZM7.52746 16H16.4725C16.2238 13.75 14.3163 12 12 12C9.68372 12 7.77619 13.75 7.52746 16Z" fill="white" fill-opacity="0.75"/>
+        </svg>
+        <span>About Us</span>
+      </button>
+      <div class="sidebar-close">×</div>
+    </div>
+
+    <div class="overlay"></div>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <div class="container">
+        <div class="welcome-banner">
+          <div class="header">
+            <span class="date" id="currentDate">February 1, 2025</span>
+            <button class="trigger-btn notification-button">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                  d="M7.25013 4.664C8.12013 3.367 9.62313 2 12.0001 2C14.3771 2 15.8801 3.367 16.7501 4.664C17.3248 5.53512 17.7427 6.49997 17.9851 7.515L19.5201 15.429C19.6043 15.8633 19.5914 16.3108 19.4824 16.7395C19.3734 17.1682 19.1709 17.5675 18.8894 17.9087C18.608 18.25 18.2546 18.5248 17.8545 18.7135C17.4544 18.9021 17.0175 19 16.5751 19H7.42513C6.98278 19 6.54591 18.9021 6.14581 18.7135C5.74571 18.5248 5.39228 18.25 5.11083 17.9087C4.82939 17.5675 4.6269 17.1682 4.51786 16.7395C4.40882 16.3108 4.39594 15.8633 4.48013 15.429L6.01513 7.515C6.25744 6.49962 6.6754 5.53543 7.25013 4.664Z"
+                  fill="#FFF7F7" />
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                  d="M8.51416 20C8.76616 20.48 9.15216 20.983 9.73716 21.367C10.3472 21.767 11.1132 22 12.0472 22C12.9802 22 13.7472 21.767 14.3572 21.367C14.9422 20.983 15.3272 20.481 15.5802 20H8.51416Z"
+                  fill="#FFF7F7" />
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                  d="M17.2932 2.29303C17.1057 2.48056 17.0004 2.73487 17.0004 3.00003C17.0004 3.26519 17.1057 3.5195 17.2932 3.70703C18.1192 4.53303 18.5552 5.34303 19.0302 7.24303C19.0962 7.49863 19.2606 7.71778 19.4875 7.85268C19.7144 7.98757 19.9854 8.02728 20.2415 7.96313C20.4976 7.89898 20.7179 7.73618 20.8544 7.51024C20.9909 7.2843 21.0325 7.01355 20.9702 6.75703C20.4452 4.65703 19.8802 3.46703 18.7072 2.29303C18.5197 2.10556 18.2654 2.00024 18.0002 2.00024C17.7351 2.00024 17.4807 2.10556 17.2932 2.29303ZM6.70722 2.29303C6.89469 2.48056 7.00001 2.73487 7.00001 3.00003C7.00001 3.26519 6.89469 3.5195 6.70722 3.70703C5.88122 4.53303 5.44522 5.34303 4.97022 7.24303C4.90424 7.49863 4.73988 7.71778 4.51297 7.85268C4.28606 7.98757 4.01502 8.02728 3.75895 7.96313C3.50288 7.89898 3.28257 7.73618 3.14605 7.51024C3.00954 7.2843 2.9679 7.01355 3.03022 6.75703C3.55522 4.65703 4.12022 3.46703 5.29322 2.29303C5.48075 2.10556 5.73506 2.00024 6.00022 2.00024C6.26538 2.00024 6.51969 2.10556 6.70722 2.29303Z"
+                  fill="#FFF7F7" />
+                <circle cx="5" cy="14" r="4" fill="#FF0000" />
+              </svg>
+            </button>
+
+            <div class="snackbar">
+              <div class="snackbar-content">
+                <div class="icon-wrapper">
+                  <i class="fas fa-check-circle"></i>
+                </div>
+                <div class="text-content">
+                  <h3>Discount on Your Exam Fees!!</h3>
+                  <p>Hey everyone! If you’re planning to register for NSAT, I have a special referral
+                    link that gives you a
+                    discount on the exam fees!💰</p>
+                    <a
+                    href="https://www.newtonschool.co/newton-school-of-technology-nst/apply-referral/?utm_source=referral&utm_medium=MADARA&utm_campaign=btech-computer-science-portal-referral">
+                    <button class="register">Register Now</button>
+                </a>
+                </div>
+                <button class="close-btn">
+                  <i class="fas fa-times"></i>
+                </button>
+              </div>
+            </div>
+
+          </div>
+          <div class="banner-content">
+            <div class="text-container">
+              <h1>Mathematics</h1>
+              <p>
+                Unlock the Magic of Numbers and Logic.
+              </p>
+            </div>
+            <div class="avatar-container">
+              <svg xmlns="http://www.w3.org/2000/svg" width="121" height="120" viewBox="0 0 121 120" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                  d="M0.359968 0.359968C0.161997 0.558169 0 0.847335 0 1.00292C0 1.1585 1.28338 6.36028 2.85179 12.5625C5.89995 24.6163 6.46362 26.2546 8.68782 29.53C9.75856 31.1067 13.6612 35.2865 14.0624 35.2865C14.2056 35.2865 19.0976 30.5107 24.9336 24.6738L34.7247 14.881C35.1748 14.4308 35.1672 13.6988 34.708 13.258L33.2493 11.8579C30.0151 8.75358 27.1285 6.91272 23.6899 5.7611C22.2289 5.27167 1.4692 0 1.00337 0C0.847564 0 0.558169 0.161997 0.359968 0.359968ZM29.6141 29.6169L19.8207 39.412C19.3769 39.8558 19.3771 40.5753 19.821 41.0189L24.1738 45.3686L66.7949 88.2156C66.7949 88.2156 73.2643 81.7514 77.4473 77.5614C81.686 73.2081 88.2138 66.9069 88.2138 66.9069L45.5975 24.0409C42.762 21.2785 40.39 19.0183 40.3265 19.0181C40.2631 19.0181 35.4423 23.7875 29.6141 29.6169ZM77.4473 77.5614L66.7949 88.2156L73.0933 94.5173C76.5573 97.9829 79.4957 100.819 79.6231 100.819C79.9247 100.819 100.819 79.9229 100.819 79.6213C100.819 79.3959 88.2138 66.9069 88.2138 66.9069C88.1713 66.9486 83.2477 71.6042 77.4473 77.5614ZM95.0894 95.2129L85.2433 105.067C84.798 105.513 84.8004 106.236 85.2486 106.679L88.6746 110.062C93.2433 114.575 94.5097 115.505 97.4985 116.545C99.127 117.111 99.6457 117.181 102.193 117.176C104.686 117.172 105.302 117.09 106.94 116.549C111.443 115.06 114.918 111.565 116.545 106.888C117.109 105.265 117.182 104.733 117.182 102.193C117.182 99.6535 117.109 99.1222 116.545 97.4985C115.503 94.5035 114.577 93.2389 110.129 88.7319C107.858 86.4318 105.943 84.5502 105.872 84.5502C105.801 84.5502 100.949 89.3485 95.0894 95.2129Z"
+                  fill="url(#paint0_linear_238_1373)" />
+                <g filter="url(#filter0_bi_238_1373)">
+                  <rect x="2.65625" y="94.3483" width="131.739" height="36.7542" rx="2.57575"
+                    transform="rotate(-45.739 2.65625 94.3483)" fill="#625CBC" />
+                </g>
+                <path
+                  d="M31.2011 94.8869C31.9929 94.0863 33.2838 94.0792 34.0844 94.871L44.0066 104.684L39.3005 109.443L29.3782 99.6294C28.5777 98.8376 28.5705 97.5467 29.3623 96.7461L31.2011 94.8869Z"
+                  fill="white" />
+                <path
+                  d="M41.1352 84.4786C41.927 83.678 43.2179 83.6709 44.0185 84.4627L53.9407 94.2759L49.2345 99.0343L39.3123 89.221C38.5117 88.4292 38.5046 87.1383 39.2964 86.3378L41.1352 84.4786Z"
+                  fill="white" />
+                <path
+                  d="M46.6044 69.6596C47.3962 68.859 48.6871 68.8519 49.4877 69.6437L63.8722 83.8703L59.1661 88.6287L44.7816 74.4021C43.981 73.6103 43.9739 72.3194 44.7657 71.5188L46.6044 69.6596Z"
+                  fill="white" />
+                <path
+                  d="M62.6093 62.7688C63.4011 61.9682 64.692 61.961 65.4926 62.7528L75.4148 72.5661L70.7087 77.3245L60.7865 67.5112C59.9859 66.7194 59.9787 65.4285 60.7705 64.6279L62.6093 62.7688Z"
+                  fill="white" />
+                <path
+                  d="M72.5434 52.3602C73.3352 51.5597 74.6261 51.5525 75.4267 52.3443L85.3489 62.1576L80.6428 66.916L70.7205 57.1027C69.9199 56.3109 69.9128 55.02 70.7046 54.2194L72.5434 52.3602Z"
+                  fill="white" />
+                <path
+                  d="M78.0126 37.5415C78.8044 36.7409 80.0953 36.7337 80.8959 37.5255L95.2804 51.7521L90.5743 56.5105L76.1898 42.2839C75.3892 41.4921 75.3821 40.2012 76.1739 39.4006L78.0126 37.5415Z"
+                  fill="white" />
+                <path
+                  d="M91.955 32.5556C92.7468 31.755 94.0377 31.7478 94.8383 32.5396L104.725 42.3178L100.019 47.0761L90.1322 37.298C89.3316 36.5062 89.3244 35.2153 90.1163 34.4147L91.955 32.5556Z"
+                  fill="white" />
+                <path
+                  d="M102.435 22.6889C103.227 21.8883 104.518 21.8811 105.318 22.6729L114.67 31.9217L109.964 36.68L100.612 27.4313C99.8115 26.6395 99.8044 25.3486 100.596 24.548L102.435 22.6889Z"
+                  fill="white" />
+                <defs>
+                  <filter id="filter0_bi_238_1373" x="-4.0539" y="-6.70924" width="131.687" height="133.419"
+                    filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                    <feGaussianBlur in="BackgroundImageFix" stdDeviation="3.88828" />
+                    <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_238_1373" />
+                    <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_238_1373" result="shape" />
+                    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                      result="hardAlpha" />
+                    <feOffset dx="0.388828" dy="0.194414" />
+                    <feGaussianBlur stdDeviation="0.97207" />
+                    <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+                    <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.6 0" />
+                    <feBlend mode="normal" in2="shape" result="effect2_innerShadow_238_1373" />
+                  </filter>
+                  <linearGradient id="paint0_linear_238_1373" x1="7.94451" y1="35.7488" x2="112.216" y2="25.8177"
+                    gradientUnits="userSpaceOnUse">
+                    <stop offset="1" stop-color="#444089" />
+                  </linearGradient>
+                </defs>
+              </svg>
+            </div>
+          </div>
+        </div>
+
+        <div class="tabs">
+          <button id="basic-tab" class="tab-button" 
+                  data-category="basic-math"
+                  data-full="Basic Math" 
+                  data-short="Basic"></button>
+                  
+          <button id="advanced-tab" class="tab-button" 
+                  data-category="advanced-math"
+                  data-full="Advanced Math" 
+                  data-short="Advance"></button>
+                  
+          <button id="interview-tab" class="tab-button" 
+                  data-category="interview"
+                  data-full="Interview Qs" 
+                  data-short="Interview"></button>
+      </div>
+
+        <div class="quiz-list">
+          <button class="quiz-item" data-category="basic-math interview" onclick="window.open('../../quiz/quiz.html?subject=math/Algorithmic_Thinking', '_blank')">
+            <div class="quiz-content">
+              <div class="quiz-icon">
+                <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_240_1778)">
+                    <rect width="64" height="64" rx="20" fill="#C4D0FB" />
+                    <rect x="8" y="16" width="48" height="66" rx="8" fill="white" />
+                    <g clip-path="url(#clip1_240_1778)">
+                      <path
+                        d="M34.3333 37.6667H35.4999C36.6666 37.6667 36.6666 38.8334 37.8519 41.7815C38.9999 44.6667 38.9999 45.8334 40.1666 45.8334H41.3333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M33.1667 45.8334C34.9167 45.8334 36.6667 43.5 37.8334 41.75C39.0001 40 40.7501 37.6667 42.5001 37.6667"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M21.5 48.1667C21.5 49.9167 22.0833 50.5 23.8333 50.5C25.5833 50.5 26.1667 45.8333 27.3333 40C28.5 34.1667 29.0833 29.5 30.8333 29.5C32.5833 29.5 33.1667 30.0833 33.1667 31.8333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path d="M23.8333 40H30.8333" stroke="#6A5AE0" stroke-width="3" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_240_1778">
+                      <rect width="64" height="64" rx="20" fill="white" />
+                    </clipPath>
+                    <clipPath id="clip1_240_1778">
+                      <rect width="28" height="28" fill="white" transform="translate(18 26)" />
+                    </clipPath>
+                  </defs>
+                </svg>
+
+              </div>
+              <div class="quiz-info">
+                <h3 class="quiz-title">Set Algorithmic Thinking (Section 1)</h3>
+                <p class="quiz-meta">Math • 10 Quizzes</p>
+              </div>
+            </div>
+            <i class="ri-arrow-right-s-line quiz-arrow"></i>
+          </button>
+          <button class="quiz-item" data-category="basic-math interview" onclick="window.open('../../quiz/quiz.html?subject=math/Set_Basic_Maths', '_blank')">
+            <div class="quiz-content">
+              <div class="quiz-icon">
+                <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_240_1778)">
+                    <rect width="64" height="64" rx="20" fill="#C4D0FB" />
+                    <rect x="8" y="16" width="48" height="66" rx="8" fill="white" />
+                    <g clip-path="url(#clip1_240_1778)">
+                      <path
+                        d="M34.3333 37.6667H35.4999C36.6666 37.6667 36.6666 38.8334 37.8519 41.7815C38.9999 44.6667 38.9999 45.8334 40.1666 45.8334H41.3333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M33.1667 45.8334C34.9167 45.8334 36.6667 43.5 37.8334 41.75C39.0001 40 40.7501 37.6667 42.5001 37.6667"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M21.5 48.1667C21.5 49.9167 22.0833 50.5 23.8333 50.5C25.5833 50.5 26.1667 45.8333 27.3333 40C28.5 34.1667 29.0833 29.5 30.8333 29.5C32.5833 29.5 33.1667 30.0833 33.1667 31.8333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path d="M23.8333 40H30.8333" stroke="#6A5AE0" stroke-width="3" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_240_1778">
+                      <rect width="64" height="64" rx="20" fill="white" />
+                    </clipPath>
+                    <clipPath id="clip1_240_1778">
+                      <rect width="28" height="28" fill="white" transform="translate(18 26)" />
+                    </clipPath>
+                  </defs>
+                </svg>
+
+              </div>
+              <div class="quiz-info">
+                <h3 class="quiz-title">Set Algorithmic Thinking (Section 2)</h3>
+                <p class="quiz-meta">Math • 11 Quizzes</p>
+              </div>
+            </div>
+            <i class="ri-arrow-right-s-line quiz-arrow"></i>
+          </button>
+          <button class="quiz-item" data-category="basic-math interview" onclick="window.open('../../quiz/quiz.html?subject=math/Logic_and_DataInterpretation', '_blank')">
+            <div class="quiz-content">
+              <div class="quiz-icon">
+                <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_240_1778)">
+                    <rect width="64" height="64" rx="20" fill="#C4D0FB" />
+                    <rect x="8" y="16" width="48" height="66" rx="8" fill="white" />
+                    <g clip-path="url(#clip1_240_1778)">
+                      <path
+                        d="M34.3333 37.6667H35.4999C36.6666 37.6667 36.6666 38.8334 37.8519 41.7815C38.9999 44.6667 38.9999 45.8334 40.1666 45.8334H41.3333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M33.1667 45.8334C34.9167 45.8334 36.6667 43.5 37.8334 41.75C39.0001 40 40.7501 37.6667 42.5001 37.6667"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M21.5 48.1667C21.5 49.9167 22.0833 50.5 23.8333 50.5C25.5833 50.5 26.1667 45.8333 27.3333 40C28.5 34.1667 29.0833 29.5 30.8333 29.5C32.5833 29.5 33.1667 30.0833 33.1667 31.8333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path d="M23.8333 40H30.8333" stroke="#6A5AE0" stroke-width="3" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_240_1778">
+                      <rect width="64" height="64" rx="20" fill="white" />
+                    </clipPath>
+                    <clipPath id="clip1_240_1778">
+                      <rect width="28" height="28" fill="white" transform="translate(18 26)" />
+                    </clipPath>
+                  </defs>
+                </svg>
+
+              </div>
+              <div class="quiz-info">
+                <h3 class="quiz-title">Set Logic and DataInterpretation (Section 3)</h3>
+                <p class="quiz-meta">Math • 10 Quizzes</p>
+              </div>
+            </div>
+            <i class="ri-arrow-right-s-line quiz-arrow"></i>
+          </button>
+
+          <button class="quiz-item" data-category="basic-math interview" onclick="window.open('../../quiz/quiz.html?subject=math/Logic_and_DataInterpretation_2', '_blank')">
+            <div class="quiz-content">
+              <div class="quiz-icon">
+                <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_240_1778)">
+                    <rect width="64" height="64" rx="20" fill="#C4D0FB" />
+                    <rect x="8" y="16" width="48" height="66" rx="8" fill="white" />
+                    <g clip-path="url(#clip1_240_1778)">
+                      <path
+                        d="M34.3333 37.6667H35.4999C36.6666 37.6667 36.6666 38.8334 37.8519 41.7815C38.9999 44.6667 38.9999 45.8334 40.1666 45.8334H41.3333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M33.1667 45.8334C34.9167 45.8334 36.6667 43.5 37.8334 41.75C39.0001 40 40.7501 37.6667 42.5001 37.6667"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M21.5 48.1667C21.5 49.9167 22.0833 50.5 23.8333 50.5C25.5833 50.5 26.1667 45.8333 27.3333 40C28.5 34.1667 29.0833 29.5 30.8333 29.5C32.5833 29.5 33.1667 30.0833 33.1667 31.8333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path d="M23.8333 40H30.8333" stroke="#6A5AE0" stroke-width="3" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_240_1778">
+                      <rect width="64" height="64" rx="20" fill="white" />
+                    </clipPath>
+                    <clipPath id="clip1_240_1778">
+                      <rect width="28" height="28" fill="white" transform="translate(18 26)" />
+                    </clipPath>
+                  </defs>
+                </svg>
+
+              </div>
+              <div class="quiz-info">
+                <h3 class="quiz-title">Set Logic and DataInterpretation (Section 4)</h3>
+                <p class="quiz-meta">Math • 10 Quizzes</p>
+              </div>
+            </div>
+            <i class="ri-arrow-right-s-line quiz-arrow"></i>
+          </button>
+
+          <button class="quiz-item" data-category="advanced-math" onclick="window.open('../../quiz/quiz.html?subject=math/Set_Advance_Maths', '_blank')">
+            <div class="quiz-content">
+              <div class="quiz-icon">
+                <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_240_1778)">
+                    <rect width="64" height="64" rx="20" fill="#C4D0FB" />
+                    <rect x="8" y="16" width="48" height="66" rx="8" fill="white" />
+                    <g clip-path="url(#clip1_240_1778)">
+                      <path
+                        d="M34.3333 37.6667H35.4999C36.6666 37.6667 36.6666 38.8334 37.8519 41.7815C38.9999 44.6667 38.9999 45.8334 40.1666 45.8334H41.3333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M33.1667 45.8334C34.9167 45.8334 36.6667 43.5 37.8334 41.75C39.0001 40 40.7501 37.6667 42.5001 37.6667"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M21.5 48.1667C21.5 49.9167 22.0833 50.5 23.8333 50.5C25.5833 50.5 26.1667 45.8333 27.3333 40C28.5 34.1667 29.0833 29.5 30.8333 29.5C32.5833 29.5 33.1667 30.0833 33.1667 31.8333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path d="M23.8333 40H30.8333" stroke="#6A5AE0" stroke-width="3" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_240_1778">
+                      <rect width="64" height="64" rx="20" fill="white" />
+                    </clipPath>
+                    <clipPath id="clip1_240_1778">
+                      <rect width="28" height="28" fill="white" transform="translate(18 26)" />
+                    </clipPath>
+                  </defs>
+                </svg>
+
+              </div>
+              <div class="quiz-info">
+                <h3 class="quiz-title">Set Advance Maths (Section 5)</h3>
+                <p class="quiz-meta">Math • 15 Quizzes</p>
+              </div>
+            </div>
+            <i class="ri-arrow-right-s-line quiz-arrow"></i>
+          </button>
+
+          <button class="quiz-item" data-category="basic-math interview" onclick="window.open('../../quiz/quiz.html?subject=math/Problems_on_Numbers', '_blank')">
+            <div class="quiz-content">
+              <div class="quiz-icon">
+                <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_240_1778)">
+                    <rect width="64" height="64" rx="20" fill="#C4D0FB" />
+                    <rect x="8" y="16" width="48" height="66" rx="8" fill="white" />
+                    <g clip-path="url(#clip1_240_1778)">
+                      <path
+                        d="M34.3333 37.6667H35.4999C36.6666 37.6667 36.6666 38.8334 37.8519 41.7815C38.9999 44.6667 38.9999 45.8334 40.1666 45.8334H41.3333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M33.1667 45.8334C34.9167 45.8334 36.6667 43.5 37.8334 41.75C39.0001 40 40.7501 37.6667 42.5001 37.6667"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M21.5 48.1667C21.5 49.9167 22.0833 50.5 23.8333 50.5C25.5833 50.5 26.1667 45.8333 27.3333 40C28.5 34.1667 29.0833 29.5 30.8333 29.5C32.5833 29.5 33.1667 30.0833 33.1667 31.8333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path d="M23.8333 40H30.8333" stroke="#6A5AE0" stroke-width="3" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_240_1778">
+                      <rect width="64" height="64" rx="20" fill="white" />
+                    </clipPath>
+                    <clipPath id="clip1_240_1778">
+                      <rect width="28" height="28" fill="white" transform="translate(18 26)" />
+                    </clipPath>
+                  </defs>
+                </svg>
+
+              </div>
+              <div class="quiz-info">
+                <h3 class="quiz-title">Problems on Numbers</h3>
+                <p class="quiz-meta">Math • 20 Quizzes</p>
+              </div>
+            </div>
+            <i class="ri-arrow-right-s-line quiz-arrow"></i>
+          </button>
+
+          <button class="quiz-item" data-category="basic-math" onclick="window.open('../../quiz/quiz.html?subject=math/HCF_LCM', '_blank')">
+            <div class="quiz-content">
+              <div class="quiz-icon">
+                <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_240_1778)">
+                    <rect width="64" height="64" rx="20" fill="#C4D0FB" />
+                    <rect x="8" y="16" width="48" height="66" rx="8" fill="white" />
+                    <g clip-path="url(#clip1_240_1778)">
+                      <path
+                        d="M34.3333 37.6667H35.4999C36.6666 37.6667 36.6666 38.8334 37.8519 41.7815C38.9999 44.6667 38.9999 45.8334 40.1666 45.8334H41.3333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M33.1667 45.8334C34.9167 45.8334 36.6667 43.5 37.8334 41.75C39.0001 40 40.7501 37.6667 42.5001 37.6667"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M21.5 48.1667C21.5 49.9167 22.0833 50.5 23.8333 50.5C25.5833 50.5 26.1667 45.8333 27.3333 40C28.5 34.1667 29.0833 29.5 30.8333 29.5C32.5833 29.5 33.1667 30.0833 33.1667 31.8333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path d="M23.8333 40H30.8333" stroke="#6A5AE0" stroke-width="3" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_240_1778">
+                      <rect width="64" height="64" rx="20" fill="white" />
+                    </clipPath>
+                    <clipPath id="clip1_240_1778">
+                      <rect width="28" height="28" fill="white" transform="translate(18 26)" />
+                    </clipPath>
+                  </defs>
+                </svg>
+
+              </div>
+              <div class="quiz-info">
+                <h3 class="quiz-title">Problems on H.C.F and L.C.M</h3>
+                <p class="quiz-meta">Math • 20 Quizzes</p>
+              </div>
+            </div>
+            <i class="ri-arrow-right-s-line quiz-arrow"></i>
+          </button>
+          <button class="quiz-item" data-category="basic-math" onclick="window.open('../../quiz/quiz.html?subject=math/Arithmetic', '_blank')">
+            <div class="quiz-content">
+              <div class="quiz-icon">
+                <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_240_1778)">
+                    <rect width="64" height="64" rx="20" fill="#C4D0FB" />
+                    <rect x="8" y="16" width="48" height="66" rx="8" fill="white" />
+                    <g clip-path="url(#clip1_240_1778)">
+                      <path
+                        d="M34.3333 37.6667H35.4999C36.6666 37.6667 36.6666 38.8334 37.8519 41.7815C38.9999 44.6667 38.9999 45.8334 40.1666 45.8334H41.3333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M33.1667 45.8334C34.9167 45.8334 36.6667 43.5 37.8334 41.75C39.0001 40 40.7501 37.6667 42.5001 37.6667"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M21.5 48.1667C21.5 49.9167 22.0833 50.5 23.8333 50.5C25.5833 50.5 26.1667 45.8333 27.3333 40C28.5 34.1667 29.0833 29.5 30.8333 29.5C32.5833 29.5 33.1667 30.0833 33.1667 31.8333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path d="M23.8333 40H30.8333" stroke="#6A5AE0" stroke-width="3" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_240_1778">
+                      <rect width="64" height="64" rx="20" fill="white" />
+                    </clipPath>
+                    <clipPath id="clip1_240_1778">
+                      <rect width="28" height="28" fill="white" transform="translate(18 26)" />
+                    </clipPath>
+                  </defs>
+                </svg>
+
+              </div>
+              <div class="quiz-info">
+                <h3 class="quiz-title">Arithmetic - Ratios, Averages, Percentages, etc.</h3>
+                <p class="quiz-meta">Math • 30 Quizzes</p>
+              </div>
+            </div>
+            <i class="ri-arrow-right-s-line quiz-arrow"></i>
+          </button>
+
+          <button class="quiz-item" data-category="advanced-math" onclick="window.open('../../quiz/quiz.html?subject=math/Permutation_and_Combination', '_blank')">
+            <div class="quiz-content">
+              <div class="quiz-icon">
+                <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_240_1778)">
+                    <rect width="64" height="64" rx="20" fill="#C4D0FB" />
+                    <rect x="8" y="16" width="48" height="66" rx="8" fill="white" />
+                    <g clip-path="url(#clip1_240_1778)">
+                      <path
+                        d="M34.3333 37.6667H35.4999C36.6666 37.6667 36.6666 38.8334 37.8519 41.7815C38.9999 44.6667 38.9999 45.8334 40.1666 45.8334H41.3333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M33.1667 45.8334C34.9167 45.8334 36.6667 43.5 37.8334 41.75C39.0001 40 40.7501 37.6667 42.5001 37.6667"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M21.5 48.1667C21.5 49.9167 22.0833 50.5 23.8333 50.5C25.5833 50.5 26.1667 45.8333 27.3333 40C28.5 34.1667 29.0833 29.5 30.8333 29.5C32.5833 29.5 33.1667 30.0833 33.1667 31.8333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path d="M23.8333 40H30.8333" stroke="#6A5AE0" stroke-width="3" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_240_1778">
+                      <rect width="64" height="64" rx="20" fill="white" />
+                    </clipPath>
+                    <clipPath id="clip1_240_1778">
+                      <rect width="28" height="28" fill="white" transform="translate(18 26)" />
+                    </clipPath>
+                  </defs>
+                </svg>
+
+              </div>
+              <div class="quiz-info">
+                <h3 class="quiz-title">Permutation and Combination</h3>
+                <p class="quiz-meta">Math • 14 Quizzes</p>
+              </div>
+            </div>
+            <i class="ri-arrow-right-s-line quiz-arrow"></i>
+          </button>
+
+          <button class="quiz-item" data-category="advanced-math" onclick="window.open('../../quiz/quiz.html?subject=math/applied_mathematics', '_blank')">
+            <div class="quiz-content">
+              <div class="quiz-icon">
+                <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_240_1778)">
+                    <rect width="64" height="64" rx="20" fill="#C4D0FB" />
+                    <rect x="8" y="16" width="48" height="66" rx="8" fill="white" />
+                    <g clip-path="url(#clip1_240_1778)">
+                      <path
+                        d="M34.3333 37.6667H35.4999C36.6666 37.6667 36.6666 38.8334 37.8519 41.7815C38.9999 44.6667 38.9999 45.8334 40.1666 45.8334H41.3333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M33.1667 45.8334C34.9167 45.8334 36.6667 43.5 37.8334 41.75C39.0001 40 40.7501 37.6667 42.5001 37.6667"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M21.5 48.1667C21.5 49.9167 22.0833 50.5 23.8333 50.5C25.5833 50.5 26.1667 45.8333 27.3333 40C28.5 34.1667 29.0833 29.5 30.8333 29.5C32.5833 29.5 33.1667 30.0833 33.1667 31.8333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path d="M23.8333 40H30.8333" stroke="#6A5AE0" stroke-width="3" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_240_1778">
+                      <rect width="64" height="64" rx="20" fill="white" />
+                    </clipPath>
+                    <clipPath id="clip1_240_1778">
+                      <rect width="28" height="28" fill="white" transform="translate(18 26)" />
+                    </clipPath>
+                  </defs>
+                </svg>
+
+              </div>
+              <div class="quiz-info">
+                <h3 class="quiz-title">Applied Mathematics - Speed, Profit &amp; Loss, Interest, etc.</h3>
+                <p class="quiz-meta">Math • 30 Quizzes</p>
+              </div>
+            </div>
+            <i class="ri-arrow-right-s-line quiz-arrow"></i>
+          </button>
+
+          <button class="quiz-item" data-category="advanced-math" onclick="window.open('../../quiz/quiz.html?subject=math/Probability', '_blank')">
+            <div class="quiz-content">
+              <div class="quiz-icon">
+                <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_240_1778)">
+                    <rect width="64" height="64" rx="20" fill="#C4D0FB" />
+                    <rect x="8" y="16" width="48" height="66" rx="8" fill="white" />
+                    <g clip-path="url(#clip1_240_1778)">
+                      <path
+                        d="M34.3333 37.6667H35.4999C36.6666 37.6667 36.6666 38.8334 37.8519 41.7815C38.9999 44.6667 38.9999 45.8334 40.1666 45.8334H41.3333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M33.1667 45.8334C34.9167 45.8334 36.6667 43.5 37.8334 41.75C39.0001 40 40.7501 37.6667 42.5001 37.6667"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M21.5 48.1667C21.5 49.9167 22.0833 50.5 23.8333 50.5C25.5833 50.5 26.1667 45.8333 27.3333 40C28.5 34.1667 29.0833 29.5 30.8333 29.5C32.5833 29.5 33.1667 30.0833 33.1667 31.8333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path d="M23.8333 40H30.8333" stroke="#6A5AE0" stroke-width="3" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_240_1778">
+                      <rect width="64" height="64" rx="20" fill="white" />
+                    </clipPath>
+                    <clipPath id="clip1_240_1778">
+                      <rect width="28" height="28" fill="white" transform="translate(18 26)" />
+                    </clipPath>
+                  </defs>
+                </svg>
+
+              </div>
+              <div class="quiz-info">
+                <h3 class="quiz-title">Probability - General Questions</h3>
+                <p class="quiz-meta">Math • 14 Quizzes</p>
+              </div>
+            </div>
+            <i class="ri-arrow-right-s-line quiz-arrow"></i>
+          </button>
+
+          <button class="quiz-item" data-category="basic-math interview"
+          onclick="window.open('../../quiz/quiz.html?subject=math/Differentiation_and_Integration', '_blank')">
+            <div class="quiz-content">
+              <div class="quiz-icon">
+                <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_240_1778)">
+                    <rect width="64" height="64" rx="20" fill="#C4D0FB" />
+                    <rect x="8" y="16" width="48" height="66" rx="8" fill="white" />
+                    <g clip-path="url(#clip1_240_1778)">
+                      <path
+                        d="M34.3333 37.6667H35.4999C36.6666 37.6667 36.6666 38.8334 37.8519 41.7815C38.9999 44.6667 38.9999 45.8334 40.1666 45.8334H41.3333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M33.1667 45.8334C34.9167 45.8334 36.6667 43.5 37.8334 41.75C39.0001 40 40.7501 37.6667 42.5001 37.6667"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path
+                        d="M21.5 48.1667C21.5 49.9167 22.0833 50.5 23.8333 50.5C25.5833 50.5 26.1667 45.8333 27.3333 40C28.5 34.1667 29.0833 29.5 30.8333 29.5C32.5833 29.5 33.1667 30.0833 33.1667 31.8333"
+                        stroke="#6A5AE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                      <path d="M23.8333 40H30.8333" stroke="#6A5AE0" stroke-width="3" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_240_1778">
+                      <rect width="64" height="64" rx="20" fill="white" />
+                    </clipPath>
+                    <clipPath id="clip1_240_1778">
+                      <rect width="28" height="28" fill="white" transform="translate(18 26)" />
+                    </clipPath>
+                  </defs>
+                </svg>
+
+              </div>
+              <div class="quiz-info">
+                <h3 class="quiz-title">Differentiation and Integration</h3>
+                <p class="quiz-meta">Math • 40 Quizzes</p>
+              </div>
+            </div>
+            <i class="ri-arrow-right-s-line quiz-arrow"></i>
+          </button>
+
+        <!-- Subject Cards -->
+      </div>
+      <script src="script.js"></script>
+      <script>
+        const today = new Date();
+        const options = { year: "numeric", month: "long", day: "numeric" };
+        document.getElementById("currentDate").textContent = today.toLocaleDateString("en-US", options);
+      </script>
+</body>
+
+</html>

@@ -1,0 +1,268 @@
+{
+    "questions": [
+        {
+            "id":1,
+            "question": "What is the average amount of interest per year which the company had to pay during this period? <br>Expenditures of a Company (in Lakh Rupees) per Annum Over the given Years.",
+            "options": [
+                "Rs. 32.43 lakhs",
+                "Rs. 33.72 lakhs",
+                "Rs. 34.18 lakhs",
+                "Rs. 36.66 lakhs"
+            ],
+            "correct": 3,
+            "image": "qusImage/data_analysis_1.png"
+        },
+        {
+            "id": 2,
+            "question": "The total amount of bonus paid by the company during the given period is approximately what percent of the total amount of salary paid during this period?",
+            "options": [
+                "0.1%",
+                "0.5%",
+                "1%",
+                "1.25%"
+            ],
+            "correct": 2,
+            "image": "qusImage/data_analysis_1.png"
+        },
+        {
+            "id": 3,
+            "question": "Total expenditure on all these items in 1998 was approximately what percent of the total expenditure in 2002?",
+            "options": [
+                "62%",
+                "66%",
+                "69%",
+                "71%"
+            ],
+            "correct": 2,
+            "image": "qusImage/data_analysis_1.png"
+        },
+        {
+            "id": 4,
+            "question": "The total expenditure of the company over these items during the year 2000 is?",
+            "options": [
+                "Rs. 544.44 lakhs",
+                "Rs. 501.11 lakhs",
+                "Rs. 446.46 lakhs",
+                "Rs. 478.87 lakhs"
+            ],
+            "correct": 0,
+            "image": "qusImage/data_analysis_1.png"
+        },
+        {
+            "id": 5,
+            "question": "The ratio between the total expenditure on Taxes for all the years and the total expenditure on Fuel and Transport for all the years respectively is approximately?",
+            "options": [
+                "4:7",
+                "10:13",
+                "15:18",
+                "5:8"
+            ],
+            "correct": 1,
+            "image": "qusImage/data_analysis_1.png"
+        },
+        {
+            "id": "#",
+            "question": "The bar graph given below shows the sales of books (in thousand number) from six branches of a publishing company during two consecutive years 2000 and 2001.<br>Sales of Books (in thousand numbers) from Six Branches - B1, B2, B3, B4, B5 and B6 of a publishing Company in 2000 and 2001.",
+            "options": [],
+            "correct": null,
+            "image": "qusImage/data_analysis_2.png"
+        },
+        {
+            "id": 1,
+            "question": "What is the ratio of the total sales of branch B2 for both years to the total sales of branch B4 for both years?",
+            "options": [
+                "2:3",
+                "3:5",
+                "4:5",
+                "7:9"
+            ],
+            "correct": 3,
+            "image": "qusImage/data_analysis_2.png"
+        },
+        {
+            "id": 2,
+            "question": "Total sales of branch B6 for both the years is what percent of the total sales of branches B3 for both the years?",
+            "options": [
+                "68.54%",
+                "71.11%",
+                "73.17%",
+                "75.55%"
+            ],
+            "correct": 2,
+            "image": "qusImage/data_analysis_2.png"
+        },
+        {
+            "id": 3,
+            "question": "What percent of the average sales of branches B1, B2 and B3 in 2001 is the average sales of branches B1, B3 and B6 in 2000?",
+            "options": [
+                "75%",
+                "77.5%",
+                "82.5%",
+                "87.5%"
+            ],
+            "correct": 3,
+            "image": "qusImage/data_analysis_2.png"
+        },
+        {
+            "id": 4,
+            "question": "What is the average sales of all the branches (in thousand numbers) for the year 2000?",
+            "options": [
+                "73",
+                "80",
+                "83",
+                "88"
+            ],
+            "correct": 1,
+            "image": "qusImage/data_analysis_2.png"
+        },
+        {
+            "id": 5,
+            "question": "Total sales of branches B1, B3 and B5 together for both the years (in thousand numbers) is?",
+            "options": [
+                "250",
+                "310",
+                "435",
+                "560"
+            ],
+            "correct": 3,
+            "image": "qusImage/data_analysis_2.png"
+        },
+        {
+            "id": "#",
+            "question": "The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.<br>Various Expenditures (in percentage) Incurred in Publishing a Book",
+            "options": [],
+            "correct": null,
+            "image": "qusImage/data_analysis_3.png"
+        },
+        {
+            "id": 1,
+            "question": "If for a certain quantity of books, the publisher has to pay Rs. 30,600 as printing cost, then what will be amount of royalty to be paid for these books?",
+            "options": ["Rs. 19,450", "Rs. 21,200", "Rs. 22,950", "Rs. 26,150"],
+            "correct": 2,
+            "image": "qusImage/data_analysis_3.png"
+          },
+          {
+            "id": 2,
+            "question": "What is the central angle of the sector corresponding to the expenditure incurred on Royalty?",
+            "options": ["15°", "24°", "54°", "48°"],
+            "correct": 2,
+            "image": "qusImage/data_analysis_3.png"
+          },
+          {
+            "id": 3,
+            "question": "The price of the book is marked 20% above the C.P. If the marked price of the book is Rs. 180, then what is the cost of the paper used in a single copy of the book?",
+            "options": ["Rs. 36", "Rs. 37.50", "Rs. 42", "Rs. 44.25"],
+            "correct": 1,
+            "image": "qusImage/data_analysis_3.png"
+          },
+          {
+            "id": 4,
+            "question": "If 5500 copies are published and the transportation cost on them amounts to Rs. 82500, then what should be the selling price of the book so that the publisher can earn a profit of 25%?",
+            "options": ["Rs. 187.50", "Rs. 191.50", "Rs. 175", "Rs. 180"],
+            "correct": 0,
+            "image": "qusImage/data_analysis_3.png"
+          },
+          {
+            "id": 5,
+            "question": "Royalty on the book is less than the printing cost by:",
+            "options": ["5%", "33 1/5%", "20%", "25%"],
+            "correct": 3,
+            "image": "qusImage/data_analysis_3.png"
+          },
+          {
+            "id": 6,
+            "question": "If the difference between the two expenditures are represented by 18° in the pie-chart, then these expenditures possibly are",
+            "options": ["Binding Cost and Promotion Cost", "Paper Cost and Royalty", "Binding Cost and Printing Cost", "Paper Cost and Printing Cost"],
+            "correct": 3,
+            "image": "qusImage/data_analysis_3.png"
+          },
+          {
+            "id": 7,
+            "question": "For an edition of 12,500 copies, the amount of Royalty paid by the publisher is Rs. 2,81,250. What should be the selling price of the book if the publisher desires a profit of 5%?",
+            "options": ["Rs. 152.50", "Rs. 157.50", "Rs. 162.50", "Rs. 167.50"],
+            "correct": 1,
+            "image": "qusImage/data_analysis_3.png"
+          },
+          {
+            "id": 8,
+            "question": "If for an edition of the book, the cost of paper is Rs. 56250, then find the promotion cost for this edition.",
+            "options": ["Rs. 20,000", "Rs. 22,500", "Rs. 25,500", "Rs. 28,125"],
+            "correct": 1,
+            "image": "qusImage/data_analysis_3.png"
+          },
+          {
+            "id": 9,
+            "question": "Which two expenditures together have central angle of 108°?",
+            "options": ["Binding Cost and Transportation Cost", "Printing Cost and Paper Cost", "Royalty and Promotion Cost", "Binding Cost and Paper Cost"],
+            "correct": 0,
+            "image": "qusImage/data_analysis_3.png"
+          },
+          {
+            "id": "#",
+            "question": "Study the following line graph and answer the questions.<br>Exports from Three Companies Over the Years (in Rs. crore)",
+            "options": [],
+            "correct": null,
+            "image": "qusImage/data_analysis_4.png"
+        },
+        {
+            "id": 1,
+            "question": "For which of the following pairs of years the total exports from the three Companies together are equal?",
+            "options": [
+              "1995 and 1998",
+              "1996 and 1998",
+              "1997 and 1998",
+              "1995 and 1996"
+            ],
+            "correct": 3,
+            "image": "qusImage/data_analysis_4.png"
+          },
+          {
+            "id": 2,
+            "question": "Average annual exports during the given period for Company Y is approximately what percent of the average annual exports for Company Z?",
+            "options": [
+              "87.12%",
+              "89.64%",
+              "91.21%",
+              "93.33%"
+            ],
+            "correct": 3,
+            "image": "qusImage/data_analysis_4.png"
+          },
+          {
+            "id": 3,
+            "question": "In which year was the difference between the exports from Companies X and Y the minimum?",
+            "options": [
+              "1994",
+              "1995",
+              "1996",
+              "1997"
+            ],
+            "correct": 2,
+            "image": "qusImage/data_analysis_4.png"
+          },
+          {
+            "id": 4,
+            "question": "What was the difference between the average exports of the three Companies in 1993 and the average exports in 1998?",
+            "options": [
+              "Rs. 15.33 crores",
+              "Rs. 18.67 crores",
+              "Rs. 20 crores",
+              "Rs. 22.17 crores"
+            ],
+            "correct": 2,
+            "image": "qusImage/data_analysis_4.png"
+          },
+          {
+            "id": 5,
+            "question": "In how many of the given years, were the exports from Company Z more than the average annual exports over the given years?",
+            "options": [
+              "2",
+              "3",
+              "4",
+              "5"
+            ],
+            "correct": 2,
+            "image": "qusImage/data_analysis_4.png"
+          }
+    ]
+}

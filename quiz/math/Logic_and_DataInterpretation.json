@@ -1,0 +1,117 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "A family consists of six members-P, Q, R, S, T, U. There are only three females in the family-P, T, U. The family consists of three couples, four pairs of brother and sister, one pair of brothers and one pair of sisters. <br>U is not the sister of P or Q. S is not married to either U or T. U’s husband is neither Q nor S. R is the brother of both Q and P.<br><br>Which of the following is not a pair of brother and sister?",
+            "options": [
+                "P and Q",
+                "P and R",
+                "T and R",
+                "U and S"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 2,
+            "question": "Find the missing term in the series?",
+            "options": [
+                "195.125",
+                "195.3125",
+                "195.315",
+                "195.1325"
+            ],
+            "correct": 1,
+            "image": "qusImage/Logic_and_DataInterpretation_2.png"
+        },
+        {
+            "id": 3,
+            "question": "Study the following table carefully and answer accordingly.<br>Mr. Roy bought different types of vegetables on different days of the week. A table is given regarding the weight and price of vegetables.<br>W = Weight (in Kg) and P = (Rs/Kg)<br>What percentage of total expense for the week is spent on Wednesday?",
+            "options": [
+                "17.3%",
+                "13.7%",
+                "15.3%",
+                "14.9%"
+            ],
+            "correct": 2,
+            "image": "qusImage/Logic_and_DataInterpretation_3.png"
+        },
+        {
+            "id": 4,
+            "question": "In a certain code language, all the consonants of English alphabet series are coded from 1 to 6 such that B is coded as 1, C as 2 and so on till H is coded as 6, thereafter the codes get repeated i.e. J is coded as 1, K as 2 and so on. The codes for vowels start with the code of Y. If Y is coded as 1, then A’s code will be 1, E will be coded as 2, I as 3 and so on.<br>After ascertaining the codes, the following conditions are to be followed to determine the final codes.<br>i. If the code for two adjacent letters is the same number, then the code of the letter that comes first as per alphabetical order will be changed to ‘#’. For example, If the code for MEAN is 4435 then according to this rule, the new code will be 4#35.<br>ii. If the code of two adjacent letters is such that the code of the preceding letter is one less than that of the succeeding letter, then change the code of the succeeding letter to ‘*’. For example, if 6349 is a code then according to this rule, the new code will be 63*9.<br>Find the code for “BLOW OWN TRUMPET”?",
+            "options": [
+                "135* 5*5 426463*",
+                "135# 5*5 426463*",
+                "135# 5#5 426463*",
+                "None of these"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 5,
+            "question": "There were eight members in a board meeting of officers, A, B, C, D, E, F, G, and H. The following information is about their seating arrangement around a rectangular table with three persons sitting on each longer side and one person sitting on each shorter side.<br><br>1. There are two head officers and they sit on the single sides of the table. D and H are not near A.<br>2. F sits on the corner of the longer side.<br>3. E is diagonally opposite to F.<br>4. There is only one person between E and C.<br>5. B is the head officer. He sits near C, who is diagonally opposite to G.<br>6. F and B are not adjacent. H is 3rd left of E and he is not head officer.<br>7. A sits on the middle of the longer side.<br><br>Who are these three persons sitting on the same side?<br><br>(Note: There might be an error in the question or options, so double-check calculations.)",
+            "options": [
+                "A, C, G",
+                "A, E, G",
+                "A, C, H",
+                "A, B, E"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 6,
+            "question": "The following pie chart shows information about distance travelled by five drivers who work for a parcel delivery company. They used their own car for the delivery.<br><br>Time spent by each driver when they were driving has been given in the bar graph below:<br><br>Of all the five drivers, which one had the fastest speed?",
+            "options": [
+                "Mahesh",
+                "Sunil",
+                "Dilip",
+                "Anil"
+            ],
+            "correct": 3,
+            "image": "qusImage/Logic_and_DataInterpretation_6.png"
+        },
+        {
+            "id": 7,
+            "question": "Ten persons namely Kiran, Nina, Payel, Riva, Sana, Tiya, Purvi, Sweta, Hina, and Zoya are travelling to five different states: Gujrat, Kerala, Delhi, Odisha, and Karnataka on either 25th, 27th, or 29th of the same month, but not necessarily in the same order.<br><br>At least one person is travelling to Gujrat on each date. Not more than three persons are travelling in the same state. Only Kiran is travelling to Delhi. Riva is travelling to Odisha. Sana and Purvi are travelling in the same state, but not travelling to either Gujrat or Karnataka. Sweta and Payel are travelling on the same date. Neither Payel nor Sweta is travelling to Karnataka. Payel and Riva are travelling on different dates. Neither Payel nor Sweta is travelling to the same city as Riva. Sweta does not travel to Kerala. Hina is travelling to Karnataka on 27th of the month. Purvi and Hina are travelling on the same date. Only two persons are travelling to Karnataka, but none of them is travelling on 29th of the month. No one is travelling to Odisha and Kerala on 25th of the month. Only four persons are travelling on 27th of the month. Only three persons are travelling on 25th of the month. Sana is travelling on neither 25th nor 27th of the month. Purvi and Nina are travelling on the same date, but none of them is travelling to Odisha. Kiran and Sana do not travel on the same date. Kiran and Zoya are travelling on the same date. Nina and Zoya do not travel to the same state.<br><br>Who are travelling to Gujrat?",
+            "options": [
+                "Kiran, Purvi, Nina",
+                "Purvi, Tiya, Sweta",
+                "Nina, Purvi, Sweta",
+                "Nina, Tiya, Sweta"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 8,
+            "question": "Eight persons – Ravi, Usha, Ashu, Deepa, Sony, Hiya, Moni, and Jay are living in an eight-floor building with the bottommost floor being the first floor while the topmost floor is numbered as the eighth floor. Only one person stays on one floor. All of them belong to the same family, and there are only two married couples, but they have different bachelor’s degrees, i.e., BA, BCA, BBA, LLB, BE, BTC, BHM, and BSM. Each of them has a different annual income viz. 3 Lakhs, 4 Lakhs, 5 Lakhs, 6 Lakhs, 7 Lakhs, 8 Lakhs, 9 Lakhs, and 10 Lakhs but not necessarily in the same order.<br><br>Ashu’s maternal aunt does not live on the eighth or first floor. The person who has the third highest annual income lives on the fifth floor. Usha is the wife of Jay, and she has only one child. The person who has the sixth lowest annual income does not have LLB as a bachelor’s degree. The person whose bachelor’s degree is BCA lives on an even-numbered floor. The person whose bachelor’s degree is BBA is an unmarried brother of Jay. Hiya is the sister-in-law of Jay. Ashu’s grandmother has only one brother. The person whose bachelor’s degree is BA lives on the top floor. The one whose annual income is third lowest lives between Usha and Ashu’s grandmother. Hiya has an annual income of 4 Lakhs, and Deepa’s husband’s brother-in-law has the lowest annual income. Deepa is the mother of Jay. The person whose bachelor’s degree is BTC lives on the seventh floor. Sony is the father of Ravi, who is the uncle of Ashu. Usha’s father-in-law has an annual income of 7 Lakhs and lives on the sixth floor. The person who has an annual income of 6 Lakhs has BE as a bachelor’s degree and lives on the third floor. The person whose annual income is the highest lives on the first floor. Jay’s child and the one whose bachelor’s degree is BSM live on an even-numbered floor. Ashu’s grandmother has an annual income of 8 Lakhs, and Ashu’s uncle has the second highest annual income. Ashu does not have BCA as a bachelor’s degree.<br><br>Three of the following five are alike in a certain way and hence form a group. Which of the following is the one that does not belong to the group?<br><br>(Note: There might be an error in the question or options, so double-check calculations.)",
+            "options": [
+                "The one whose annual income is 7 Lakhs",
+                "The one whose bachelor degree is BTC.",
+                "The one whose bachelor degree is BE",
+                "The one whose annual income is 4 Lakhs"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 9,
+            "question": "Consider the following series: <br><br>3.8, 11, 334, 12.6, 81, 85.5, 44.8, 481, 16.25<br><br>Find the 13th, 14th, and 15th terms in the series?<br><br>(Note: There might be an error in the question or options, so double-check calculations.)",
+            "options": [
+                "188.2, 3841, 2.403125",
+                "952, 3841, 2.403125",
+                "952, 3841, 2.40125",
+                "3841, 952, 2.403125"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 10,
+            "question": "Six friends A, B, C, D, E, and F are having different food items among Bread, Wafer, Pastry, Milk, Ice-cream, and Noodles but not necessarily in the same order. The cost of each food item is a multiple of 5 in Rupees, and no two food items have the same price. All friends like different colors among Mauve, Yellow, Violet, Magenta, Orange, and Grey but not necessarily in the same order. <br><br>C has Wafer and its cost is Rs.10, and he doesn’t like Grey color. F likes Violet color. B did not have Bread or Milk. E has a food item that costs Rs.20. The one person who likes Mauve color has Milk. A has Pastry which costs Rs.25, and he likes Yellow color. The cost of the food item that D has is less than that of Wafer. The costliest food item is Ice-cream, and its cost is thrice the cost of Wafer, and B doesn’t have Ice-cream. The cost of Bread is 10 Rupees less than the cost of Ice-cream. The one who likes Magenta color has Noodles. One of the persons has a food item that costs thrice the amount of the one who likes Mauve color.<br><br>Which of the following combinations is correctly correct?",
+            "options": [
+                "A-orange-wafer-10",
+                "E-Grey-Bread-5",
+                "B-magenta-noodles-15",
+                "F-pink-icecream-30"
+            ],
+            "correct": 2
+        }
+    ]
+}

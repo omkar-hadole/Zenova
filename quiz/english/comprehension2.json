@@ -1,0 +1,132 @@
+{
+    "questions": [
+        {
+            "id": "#",
+            "question": "Read the following passage and answer the question that follows.",
+            "options": [
+                "<b> Click here</b> if you have reviewed all the instructions and question details."
+            ],
+            "correct": 0,
+            "image": "qusImage/comprehension2_1.png"
+        },
+        {
+            "id": 1,
+            "question": "A person who aspires to lead could learn from the history of battles",
+            "options": [
+                "what led the previous leaders win a battle",
+                "what made them lose a battle",
+                "the qualities and deficiencies of commanders of these battles",
+                "the strategies that they have evolved in course of these battles"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 2,
+            "question": "In this context, 'intelligent interpretation of current event' means",
+            "options": [
+                "rational explanation of events",
+                "appropriate understanding of events",
+                "intellectual outlook on events",
+                "skilful interpretation of events"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 3,
+            "question": "The expression 'more than a modicum of truth' means",
+            "options": [
+                "some truth",
+                "much truth",
+                "more than a small amount of truth",
+                "nothing but truth"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 4,
+            "question": "According to the writer, a study of famous battles of history would",
+            "options": [
+                "be beneficial to wise men",
+                "provide food to modern leaders for reflection",
+                "be more useful than a general knowledge of ancient history",
+                "help us understand the art of modern warfare"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 5,
+            "question": "A knowledge of history is necessary to interpret current problems because",
+            "options": [
+                "they have roots in the past",
+                "they can be contrasted with the past events",
+                "they may be repetitions of past events",
+                "only then they can be put in a proper context"
+            ],
+            "correct": 2
+        },
+        {
+            "id": "#",
+            "question": "Read the following passage and answer the question that follows.",
+            "options": [
+                "<b> Click here</b> if you have reviewed all the instructions and question details."
+            ],
+            "correct": 0,
+            "image": "qusImage/comprehension2_2.png"
+        },
+        {
+            "id": 1,
+            "question": "Evaluation of news would imply",
+            "options": [
+                "less dependence on modern systems of communication",
+                "more careful analysis of each news story and its value",
+                "separating beans from junk",
+                "discriminating horrors from disasters"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 2,
+            "question": "The writer of the above passage",
+            "options": [
+                "seems to be happy with the contemporary arrangements for circulating news",
+                "is shocked by the casual stories about horrors and disasters reported in the newspapers",
+                "wants better evaluation of news before publication",
+                "wants to put his foot down on news stories"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 3,
+            "question": "In the above passage, the phrase 'amounts to a row of beans' means that the news",
+            "options": [
+                "is weak and often wanting entirely",
+                "deserves no one's attention",
+                "should travel the wires",
+                "is junk dressed up as real news"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 4,
+            "question": "Newspapers lack a sense of discrimination because",
+            "options": [
+                "they do not separate the real news from mere sensationalism",
+                "they have to accept whatever is received on the wires",
+                "limited manpower makes serious evolution impossible",
+                "people don't see the difference between 'junk' and 'real' news"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 5,
+            "question": "The passage implies that",
+            "options": [
+                "there has to be censorship on newspapers",
+                "there is no point in having censorship",
+                "newspapers always dress up junk to look meaningful",
+                "one has to be strict in selecting news items"
+            ],
+            "correct": 2
+        }
+    ]
+}

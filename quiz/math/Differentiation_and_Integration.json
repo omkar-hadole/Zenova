@@ -1,0 +1,444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the slope of the tangent to the curve y = 2x/(x² + 1) at (0, 0)?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": "The value of f’(x) is -1 at point P on a continuous curve y = f(x). What angle does the tangent at P make with the positive x-axis?",
+      "options": [
+        "π/2",
+        "π/4",
+        "3π/4",
+        "3π/2"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the differential function of √(x² + 2)?",
+      "options": [
+        "x√(x² + 2) dx",
+        "x/√(x² + 2) dx",
+        "x/√(x² – 2) dx",
+        "-x/√(x² + 2) dx"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "What is the differential function of log(x² + 4)?",
+      "options": [
+        "2x/(x² + 4) dx",
+        "2x/(x² – 4) dx",
+        "-2x/(x² + 4) dx",
+        "-2x/(x² – 4) dx"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "What is the average rate of change of y = 16 – x² between x = 3 and x = 4?",
+      "options": [
+        "7",
+        "-7",
+        "9",
+        "-9"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "What is the average rate of change of y = 16 – x² at x = 4?",
+      "options": [
+        "-8",
+        "8",
+        "-9",
+        "Depends on x"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "At which point on the parabola y² = 4x does the abscissa increase twice as fast as the ordinate?",
+      "options": [
+        "(1, 1)",
+        "(2, 2)",
+        "(3, 3)",
+        "(4, 4)"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 8,
+      "question": "If dr/dt = 1/2π for a sphere (r = 5 cm), what is the rate of change of its surface area?",
+      "options": [
+        "10 sq cm",
+        "20 sq cm",
+        "30 sq cm",
+        "40 sq cm"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "For a unit-volume cube, how does dV/dt relate to the rate of change of a face’s area?",
+      "options": [
+        "3/8*(dA/dt)",
+        "3/4*(dA/dt)",
+        "3/10*(dA/dt)",
+        "3/2*(dA/dt)"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 10,
+      "question": "A 5 ft man walks away from a 12.5 ft lamp post at 3 mph. What is the shadow’s rate of increase?",
+      "options": [
+        "0 mph",
+        "1 mph",
+        "2 mph",
+        "3 mph"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "What is the slope of the tangent to the curve y = 2x/(x2 + 1) at (0, 0)?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": "The value of f’(x) is -1 at the point P on a continuous curve y = f(x). What is the angle which the tangent to the curve at P makes with the positive direction of x axis?",
+      "options": [
+        "π/2",
+        "π/4",
+        "3π/4",
+        "3π/2"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "What will be the differential function of √(x2 + 2)?",
+      "options": [
+        "x√(x2 + 2) dx",
+        "x/√(x2 + 2) dx",
+        "x/√(x2 – 2) dx",
+        "-x/√(x2 + 2) dx"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "What will be the differential function of log(x2 + 4)?",
+      "options": [
+        "2x/(x2 + 4) dx",
+        "2x/(x2 – 4) dx",
+        "-2x/(x2 + 4) dx",
+        "-2x/(x2 – 4) dx"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": "What will be the average rate of change of the function [y = 16 – x2] between x = 3 and x = 4?",
+      "options": [
+        "7",
+        "-7",
+        "9",
+        "-9"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "What will be the average rate of change of the function [y = 16 – x2] at x = 4?",
+      "options": [
+        "-8",
+        "8",
+        "-9",
+        "Depends on the value of x"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "What will be the value of the co-ordinate whose position of a particle moving along the parabola y2 = 4x at which the rate at of increase of the abscissa is twice the rate of increase of the ordinate?",
+      "options": [
+        "(1, 1)",
+        "(2, 2)",
+        "(3, 3)",
+        "(4, 4)"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 18,
+      "question": "The time rate of change of the radius of a sphere is 1/2π. When it’s radius is 5cm, what will be the rate of change of the surface of the sphere with time?",
+      "options": [
+        "10 sq cm",
+        "20 sq cm",
+        "30 sq cm",
+        "40 sq cm"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "A solid cube changes its volume such that its shape remains unchanged. For such a cube of unit volume, what will be the value of rate of change of volume?",
+      "options": [
+        "3/8*(rate of change of area of any face of the cube)",
+        "3/4*(rate of change of area of any face of the cube)",
+        "3/10*(rate of change of area of any face of the cube)",
+        "3/2*(rate of change of area of any face of the cube)"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 20,
+      "question": "A 5 ft long man walks away from the foot of a 12(½) ft high lamp post at the rate of 3 mph. What will be the rate at which the shadow increases?",
+      "options": [
+        "0mph",
+        "1mph",
+        "2mph",
+        "3mph"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 21,
+      "question": "Find the order of the differential equation y’-20y+2=0.",
+      "options": [
+        "2",
+        "8",
+        "0",
+        "1"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 22,
+      "question": "Find the order of the D.E 7𝑑2𝑦𝑑𝑥2−6𝑑𝑦𝑑𝑥=1",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 23,
+      "question": "Find the order and degree of the differential equation y”’-(4y’)3=0",
+      "options": [
+        "Order-3, Degree-1",
+        "Order-1, Degree-3",
+        "Order-2, Degree-1",
+        "Order-3, Degree-2"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "question": "Find the order of the differential equation 𝑑𝑦𝑑𝑥+15 cos⁡x=0.",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 25,
+      "question": "Find the degree of the differential equation y”-12cosec y=0.",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "Not defined"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "question": "Find the order and degree of the differential equation 7y’-3y=0.",
+      "options": [
+        "Order-1, Degree-2",
+        "Order-2, Degree-3",
+        "Order-1, Degree-1",
+        "Order-3, Degree-2"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 27,
+      "question": "Find the degree of the D.E 𝑑2𝑦𝑑𝑥2+5𝑐𝑜𝑡(𝑑𝑦𝑑𝑥)=0",
+      "options": [
+        "five",
+        "three",
+        "two",
+        "not defined"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 28,
+      "question": "Find the order and degree of the differential equation (y”’)2+7(y’)2-(cos⁡x)2=0",
+      "options": [
+        "Order-0, Degree-2",
+        "Order-3, Degree-2",
+        "Order-3, Degree-3",
+        "Order-1, Degree-2"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 29,
+      "question": "Find the degree of the D.E (𝑑2𝑦𝑑𝑥2)-3 tan⁡x=0.",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "question": "Find the order of the differential equation 9𝑑2𝑦𝑑𝑥2−7𝑑𝑦𝑑𝑥+𝑦6=0",
+      "options": [
+        "3",
+        "1",
+        "4",
+        "2"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 31,
+      "question": "Find ∫7 cos(mx) dx.",
+      "options": [
+        "7 sin(mx)/x + C",
+        "7 sin(mx)/m + C",
+        "sin(mx)/x + C",
+        "sin(x)/m + C"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "question": "Integrate 3x²(cos(x³) + 8).",
+      "options": [
+        "sin(x³) − 8x³ + C",
+        "sin(x³) + 8x³ + C",
+        "−sin(x³) + 8x³ + C",
+        "sin(x³) − x³ + C"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 33,
+      "question": "Find ∫6x(x² + 6) dx.",
+      "options": [
+        "3x⁴/2 + 18x² + C",
+        "3x⁴/2 − 18x + C",
+        "3x⁴/2 − 18x² + C",
+        "3x⁴/2 + x² + C"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "question": "Find the integral of 3eˣ + 2(log x)³/x.",
+      "options": [
+        "3eˣ + (1/3)(log x)² + C",
+        "eˣ − (8/3)(log x)² + C",
+        "3eˣ − (1/3)(log x)² + C",
+        "3eˣ + (1/3)(log x)² + C"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 35,
+      "question": "Find ∫e^(-cot⁻¹x)/(1 + x²) dx.",
+      "options": [
+        "e^(-cot⁻¹x) + C",
+        "e^(-2cot⁻¹x) + C",
+        "e^(-tan⁻¹x) + C",
+        "e^(-cot¹⁄²x) + C"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 36,
+      "question": "Find the integral of 5x⁴/√(x⁵ + 9).",
+      "options": [
+        "√(x⁵ + 9)",
+        "2√(x⁵ − 9)",
+        "2(x⁵ + 9)",
+        "2√(x⁵ + 9)"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 37,
+      "question": "Find ∫6 sin(√x)/√x dx.",
+      "options": [
+        "2cos(√x) + C",
+        "−12cos(√x) + C",
+        "−12 cos(x) + C",
+        "12 cos(x) + C"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 38,
+      "question": "Find ∫20x³/(1 + x⁴) dx.",
+      "options": [
+        "5 log(x⁴) + C",
+        "−5 log(1 + x⁴) + C",
+        "5 log(1 + x⁴) + C",
+        "log(1 + x⁴) + C"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 39,
+      "question": "Integrate x²e^x³.",
+      "options": [
+        "−1/(3e^x³) + C",
+        "(1/3)e^x³ + C",
+        "−1/e^x³ + C",
+        "e^x³ + C"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "question": "Find ∫cos⁻¹x/√(1 − x²) dx.",
+      "options": [
+        "(sin⁻¹x)²/2 + C",
+        "(cos⁻¹x)²/7 + C",
+        "(cos⁻¹x)²/2 + C",
+        "−(cos⁻¹x)²/2 + C"
+      ],
+      "correct": 2
+    }
+  ]
+}

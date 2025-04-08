@@ -1,0 +1,92 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "If CAT = 24, DOG = 26, then what is the code for BIRD?",
+        "options": [
+          "32",
+          "30",
+          "34",
+          "36"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 2,
+        "question": "If ‘MANGO’ is written as ‘NCPTQ’, how will ‘APPLE’ be written?",
+        "options": [
+          "BQQMF",
+          "BQQLF",
+          "BPRMF",
+          "BQPMF"
+        ],
+        "correct": 0
+      },
+      {
+        "id": 3,
+        "question": "In a certain code:<br><br>‘@’ means ‘multiply by 2’<br><br>‘#’ means ‘add 3’<br><br>‘$’ means ‘subtract 4’<br><br>What is the result of:<br><br>5 @ 3 # 6 $ 2",
+        "options": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 4,
+        "question": "If DOOR is coded as GLLT, how is TABLE coded?",
+        "options": [
+          "WDEOH",
+          "XDFOG",
+          "XDGOG",
+          "XDFOH"
+        ],
+        "correct": 3
+      },
+      {
+        "id": 5,
+        "question": "If ‘SUMMER’ is coded as ‘VXPQHU’, how will ‘WINTER’ be coded?",
+        "options": [
+          "ZLQWHU",
+          "ZLQWHV",
+          "ZLQXHU",
+          "ZLQXHV"
+        ],
+        "correct": 3
+      },
+      {
+        "id": 6,
+        "question": "If in a code APPLE = BQQMF, then MANGO = ?",
+        "options": [
+          "NBMHP",
+          "NBOHP",
+          "OCQIP",
+          "NBMGO"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 7,
+        "question": "In a certain code:<br><br>\"TABLE\" → \"XDFOH\"<br><br>How is \"CHAIR\" coded?",
+        "options": [
+          "EICLU",
+          "FJDMV",
+          "GKENW",
+          "BGAJQ"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 8,
+        "question": "If FLOWER is written as GMPXFS, then what is PENCIL?",
+        "options": [
+          "QFODJM",
+          "QFODHN",
+          "RGPENJ",
+          "OMBCHM"
+        ],
+        "correct": 1
+      }
+    ]
+  }

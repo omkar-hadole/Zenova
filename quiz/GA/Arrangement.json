@@ -1,0 +1,81 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Eight people—A, B, C, D, E, F, G, and H—are seated in a row facing north, but not necessarily in that order.<br><br>A is not at either end of the row.<br><br>B is to the immediate left of C.<br><br>D sits exactly between F and G.<br><br>E sits fourth to the right of A.<br><br>C sits third to the right of G.<br><br>Who is sitting to the immediate left of D?",
+        "options": [
+          "F",
+          "G",
+          "B",
+          "C"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 2,
+        "question": "Six friends—P, Q, R, S, T, and U—are sitting around a circular table facing the center.<br><br>P sits third to the right of Q.<br><br>R is to the immediate left of T.<br><br>S is not an immediate neighbor of Q.<br><br>U is sitting opposite P.<br><br>Who is sitting exactly between R and Q?",
+        "options": [
+          "S",
+          "U",
+          "P",
+          "T"
+        ],
+        "correct": 3
+      },
+      {
+        "id": 3,
+        "question": "Six people—X, Y, Z, W, P, and Q—live on a six-floor building, numbered 1 to 6 from bottom to top.<br><br>Y lives on an odd-numbered floor.<br><br>Only two people live between P and W.<br><br>Q lives two floors above X.<br><br>Z lives just below W.<br><br>Who lives on the top floor?",
+        "options": [
+          "X",
+          "Y",
+          "Z",
+          "Q"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 4,
+        "question": "Six boxes—A, B, C, D, E, and F—are stacked one above the other.<br><br>Box A is placed two boxes above Box C.<br><br>Box B is below Box D but above Box C.<br><br>Box E is at the topmost position.<br><br>Box F is placed between Box A and Box C.<br><br>Which box is at the second position from the top?",
+        "options": [
+          "A",
+          "B",
+          "D",
+          "F"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 5,
+        "question": "Six people—A, B, C, D, E, and F—are sitting in a row.<br><br>A is sitting to the left of B.<br><br>C is sitting at one end.<br><br>D is sitting two places away from A.<br><br>E is between B and F.<br><br>Who is sitting at the rightmost end?",
+        "options": [
+          "C",
+          "A",
+          "F",
+          "D"
+        ],
+        "correct": 0
+      },
+      {
+        "id": 6,
+        "question": "Five friends—P, Q, R, S, and T—are sitting around a circular table.<br><br>Q is second to the left of P.<br><br>R is opposite T.<br><br>S is not adjacent to P.<br><br>Who is sitting to the immediate left of Q?",
+        "options": [
+          "P",
+          "R",
+          "S",
+          "T"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 7,
+        "question": "A building has five floors labeled 1 to 5.<br><br>A lives on an even-numbered floor but not on the top floor.<br><br>B lives above A.<br><br>C lives on an odd-numbered floor.<br><br>Where does B live?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correct": 3
+      }
+    ]
+  }

@@ -1,0 +1,125 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "In a survey of 150 students:<br><br>90 like Cricket<br><br>75 like Football<br><br>50 like both Cricket and Football<br><br>How many students like only Cricket?",
+      "options": [
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "(Use the same data in this question as in the first one.)<br><br>How many students don’t like either Cricket or Football?",
+      "options": [
+        "10",
+        "25",
+        "35",
+        "45"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": "A scatter plot shows the relationship between study hours and exam scores. The equation of the best-fit line is:<br><br>y=5x+20<br><br>where y is the exam score and x is the number of hours studied.<br><br>If a student studies for 6 hours, what is their predicted exam score?",
+      "options": [
+        "40",
+        "50",
+        "55",
+        "60"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "(Use the same data in this question as was used in the previous one.)<br><br>What does the slope of the line (5) indicate?",
+      "options": [
+        "The score decreases by 5 for every extra hour studied.",
+        "The score increases by 5 for every extra hour studied.",
+        "The score remains constant for every hour studied.",
+        "The score fluctuates randomly."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "Five friends P, Q, R, S, and T are sitting in a row.<br><br>P is to the right of Q but left of S.<br><br>R is exactly in the middle.<br><br>T is at one end.<br><br>Who is sitting to the immediate right of R?",
+      "options": [
+        "P",
+        "Q",
+        "S",
+        "T"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": "(Use the same data in this question as was used in the previous one.)<br><br>If S and R swap places, who will be at the extreme right?",
+      "options": [
+        "S",
+        "R",
+        "Q",
+        "P"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "A person walks 10 km north, then 6 km east, then 10 km south, and finally 6 km west.<br><br>What is the person’s final position relative to the starting point?",
+      "options": [
+        "10 km east",
+        "6 km west",
+        "Back at the starting point",
+        "4 km east"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "Family Relations<br><br>A is the father of B.<br><br>B is the sister of C.<br><br>C is married to D.<br><br>D is the son-in-law of E.<br><br>How is E related to B?",
+      "options": [
+        "Father",
+        "Mother",
+        "Grandfather or Grandmother",
+        "Aunt"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "(Use the same data in this question as was used in the previous one.)<br><br>How is C related to A?",
+      "options": [
+        "Son",
+        "Daughter",
+        "Brother-in-law",
+        "Cousin"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "In a certain coding system:<br><br>HELLO → JGNNA<br><br>WORLD → YQTNF<br><br>What is the code for 'EXAM'?",
+      "options": [
+        "GZCO",
+        "FYBN",
+        "HYDP",
+        "KZPM"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": "(Use the same data in this question as was used in the previous one.)<br><br>What pattern is used in this encryption?",
+      "options": [
+        "Each letter is shifted two places forward in the alphabet.",
+        "Each letter is replaced with its mirror image.",
+        "Each letter is shifted three places backward in the alphabet.",
+        "The word is reversed and then shifted."
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Six workers—Anna, Brian, Charles, Diana, Edward, and Fiona—are planning to line up for a group photo in an industrial plant. However, Diana, Edward, and Fiona insist on standing next to each other. How many different ways can they arrange themselves under this condition?",
+            "options": [
+                "140",
+                "144",
+                "152",
+                "160"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 2,
+            "question": "A teacher has 10 different books and wants to select 4 of them to recommend to a student. How many different selections of 4 books can the teacher make?",
+            "options": [
+                "200",
+                "210",
+                "240",
+                "250"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 3,
+            "question": "A mixture of paint requires 5 parts of blue paint and 3 parts of yellow paint. If you want to mix 40 parts of paint in total, how much blue paint and yellow paint should you use, maintaining the same ratio?",
+            "options": [
+                "25 parts of blue paint and 15 parts of yellow paint",
+                "30 parts of blue paint and 10 parts of yellow paint",
+                "20 parts of blue paint and 20 parts of yellow paint",
+                "35 parts of blue paint and 5 parts of yellow paint"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 4,
+            "question": "A community garden project requires 1500 hours of work to be completed. There are two types of gardeners: experienced and novice. Experienced gardeners can complete 12 hours of work per day, while novice gardeners can complete 8 hours of work per day. The project coordinator wants to employ a mix of both types of gardeners to finish the project in 20 days. If the project coordinator hires 5 experienced gardeners, how many novice gardeners are needed to complete the project on time? <br>After successfully completing the community garden project, the community receives another project requiring 2400 hours of work for a new garden. There are still experienced and novice gardeners available, with the same productivity rates of 12 hours/day and 8 hours/day, respectively. This time, the project coordinator wants to complete the project in 30 days. If the project coordinator decides to hire 4 experienced gardeners, how many novice gardeners are needed to complete the project on time?",
+            "options": [
+                "2 novice gardeners, 4 novice gardeners",
+                "4 novice gardeners, 2 novice gardeners",
+                "3 novice gardeners, 4 novice gardeners",
+                "1 novice gardener, 3 novice gardeners"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 5,
+            "question": "A 5-letter password is created using the 26 letters of the English alphabet. How many different possible passwords are there if no letter is repeated? If the password is required to have exactly one vowel (A, E, I, O, U), how many different possible passwords are there?",
+            "options": [
+                "Possible password in case I: 7893600 Possible password in case II:3591000",
+                "Possible password in case I: 7893900 Possible password in case II:3621000",
+                "Possible password in case I: 6000600 Possible password in case II:3721000",
+                "Possible password in case I: 7893800 Possible password in case II:6001000"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 6,
+            "question": "A bakery sells three types of pastries: Muffins, Donuts, and Cakes. The average price of Muffins is $2, Donuts is $3, and Cakes is $10. The ratio of the number of Muffins to Donuts to Cakes sold in a month is 6:4:1. If the total revenue from selling all types of pastries in a month is $960, and the total number of pastries sold is 240, find the number of pastries sold in each category. If the bakery offers a discount of 10% on all Donuts and a discount of 20% on all Cakes, how much revenue does the bakery generate after applying the discounts? <br>(Note: There might be an error in the question or options, so double-check calculations.)",
+            "options": [
+                "$582.90",
+                "$600.90",
+                "$572.90",
+                "$672.90"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 7,
+            "question": "Three partners, X, Y, and Z, invested in a business. They agreed to share the profit in the ratio 2:3:4. They had invested for different durations of time: X for 8 months, Y for 6 months, and Z for 4 months. What was the ratio of their investments? <br>(Note: There might be an error in the question or options, so double-check calculations.)",
+            "options": [
+                "8:9:8",
+                "4:9:8",
+                "6:8:9",
+                "8:8:9"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 8,
+            "question": "A bakery has two ovens for baking different types of bread: Oven A and Oven B. Oven A can bake 300 Loaves of White Bread in 5 hours, while Oven B can bake 200 Loaves of Whole Wheat Bread in 7 hours. If the bakery operates both ovens simultaneously for 10 hours each day, how many Loaves of White Bread and Whole Wheat Bread can the bakery produce in one week (7 days)?",
+            "options": [
+                "4300 Loaves of White Bread using Oven A and 2302 Loaves of Whole Wheat Bread using Oven B",
+                "3200 Loaves of White Bread using Oven A and 1002 Loaves of Whole Wheat Bread using Oven B",
+                "4200 Loaves of White Bread using Oven A and 2002 Loaves of Whole Wheat Bread using Oven B",
+                "4000 Loaves of White Bread using Oven A and 2000 Loaves of Whole Wheat Bread using Oven B"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 9,
+            "question": "David, Edward, and Fiona decide to invest in a business together. David invests Rs. 15,000 for 2 years at a compound interest rate of 8% per annum, compounded annually. Edward invests Rs. 20,000 for 3 years at a compound interest rate of 6% per annum, compounded annually. Fiona invests Rs. 30,000 for 1 year at a compound interest rate of 10% per annum, compounded annually. Calculate the total compound interest earned by each of them. Then, find out how much Edward earns if they decide to split the total compound interest in the ratio of their investments.",
+            "options": [
+                "Compound interest: Rs.9416.32, Amount earned by Edward: Rs.2966.56",
+                "Compound interest: Rs.9316.32, Amount earned by Edward: Rs.2866.56",
+                "Compound interest: Rs.9300.32, Amount earned by Edward: Rs.2800.56",
+                "Compound interest: Rs.9600, Amount earned by Edward: Rs.2868.56"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 10,
+            "question": "A land surveyor has a quadrilateral field with vertices at points P, Q, R, and S. The coordinates of the vertices are P(1, 3), Q(5, 11), R(9, 5), and S(4, 1). The surveyor wants to divide the field into two equal areas by drawing a line parallel to the base PS. What are the coordinates of the points where the dividing line intersects the other two sides (PQ and QR)?",
+            "options": [
+                "(1/2,1) on PQ and (1,2) on QR.",
+                "(2,2) on PQ and (8,2) on QR.",
+                "(1/2,2) on PQ and (10,2) on QR.",
+                "(1,2) on PQ and (9,2) on QR."
+            ],
+            "correct": 2
+        }
+    ]
+}

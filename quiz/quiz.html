@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zenova Quiz</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="shortcut icon" href="favicon_blue.png" type="image/x-icon">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2MJQQ25V43"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-2MJQQ25V43');
+    </script>
+</head>
+<body>
+  <!-- Start Test Popup -->
+  <div id="start-popup" class="popup active">
+    <div class="popup-content">
+      <div class="popup-header">
+        <i class="fas fa-rocket logo"></i>
+        <h1>Welcome to Zenova!</h1>
+      </div>
+      <div class="popup-body">
+        <div class="features">
+          <div class="feature-item">
+            <i class="fas fa-question-circle"></i>
+            <span>MCQ Questions</span>
+          </div>
+          <div class="feature-item">
+            <i class="fas fa-clock"></i>
+            <span>Unlimited Time</span>
+          </div>
+          <div class="feature-item">
+            <i class="fas fa-chart-bar"></i>
+            <span>Detailed Results</span>
+          </div>
+        </div>
+        <button id="start-btn" class="glow-btn">
+          Start Quiz <i class="fas fa-play"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Quiz Container -->
+  <div class="quiz-container">
+    <!-- Header -->
+    <div class="quiz-header">
+      <div class="timer">
+        <i class="fas fa-clock"></i>
+        <span id="time">00:00</span>
+      </div>
+      <div class="progress">
+        <span id="current-q">1</span>/<span id="total-q">30</span>
+      </div>
+      <button id="submit-btn" class="submit-btn">
+        Submit <!-- <i class="fas fa-paper-plane"></i> -->
+      </button>
+    </div>
+
+    <!-- Questions Container -->
+    <div id="questions-container">
+      
+    </div>
+
+    <!-- Navigation -->
+    <div class="navigation">
+      <button id="prev-btn" class="nav-btn">
+        <i class="fas fa-chevron-left"></i> Previous
+      </button>
+      <button id="next-btn" class="nav-btn">
+        Next <i class="fas fa-chevron-right"></i>
+      </button>
+    </div>
+  </div>
+
+  <!-- Results Popup -->
+  <div id="results-popup" class="popup">
+    <div class="popup-content">
+      <div class="results-header">
+        <i class="fas fa-trophy trophy"></i>
+        <h2>Quiz Completed!</h2>
+      </div>
+      <div class="results-body">
+        <div class="result-item">
+          <span>Correct Answers:</span>
+          <span id="correct-answers">0</span>
+        </div>
+        <div class="result-item">
+          <span>Time Taken:</span>
+          <span id="time-taken">00:00</span>
+        </div>
+        <div class="result-item highlight">
+          <span>Your Score:</span>
+          <span id="percentage">0%</span>
+        </div>
+        <button id="review-btn" class="review-btn">
+          <i class="fas fa-search"></i> Review Answers
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

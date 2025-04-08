@@ -1,0 +1,59 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "A person starts from point A and walks 10m north, then turns right and walks 15m. He then turns right again and walks 10m, followed by a left turn to walk 5m.<br><br>How far is he from his starting position?",
+        "options": [
+          "10m",
+          "5m",
+          "15m",
+          "20m"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 2,
+        "question": "A is 15m east of B. C is 10m north of A. D is 5m west of C. E is 10m south of D.<br><br>Where is E with respect to B?",
+        "options": [
+          "10m east",
+          "5m west",
+          "15m east",
+          "20m west"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 3,
+        "question": "A traveler starts from town X, moves 30 km east, then turns south to travel 40 km. He then moves west for 30 km and finally moves north for 20 km.<br><br>What is the final distance between his starting and ending position?",
+        "options": [
+          "10 km",
+          "20 km",
+          "30 km",
+          "40 km"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 4,
+        "question": "A person walks 10m north, then 5m east, then 15m south. What is the final displacement?",
+        "options": [
+          "10m west",
+          "10m south",
+          "5m south-east",
+          "15m east"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 5,
+        "question": "A person starts at point A, walks 10m east, then turns 90° right and walks 5m, then turns 90° left and walks 10m. Where is he from the starting point?",
+        "options": [
+          "15m north-east",
+          "20m east",
+          "10m west",
+          "5m south"
+        ],
+        "correct": 1
+      }
+    ]
+  }

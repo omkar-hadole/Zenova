@@ -1,0 +1,21 @@
+{
+  "questions": [
+      {
+          "id": 1,
+          "question": "Read the following passage carefully and summarize it in 50-60 words. Also, determine the tone of the passage.\nIn the wake of climate change, global leaders are grappling with policies that strike a balance between economic growth and environmental sustainability. While industrialists advocate for minimal regulations to maintain profitability, environmentalists push for stringent laws to curb pollution. However, a middle path must be found to ensure economic progress without causing irreversible damage to the planet.",
+          "options": ["Optimistic", "Critical", "Pragmatic", "Melancholic"],
+          "correct": 2
+      },
+      {
+          "id": 2,
+          "question": "Analyze the following statement and provide both a supporting and an opposing argument.\nOnline education is more effective than traditional classroom learning.",
+          "options": [
+              "Online education allows flexibility for students and teachers.",
+              "Digital learning resources enhance engagement and understanding.",
+              "Face-to-face interactions help in developing communication and teamwork skills.",
+              "Online education reduces travel time and expenses."
+          ],
+          "correct": 2
+      }
+  ]
+}

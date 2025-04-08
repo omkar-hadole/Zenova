@@ -1,0 +1,121 @@
+{
+    "questions": [
+        {
+            "id": "#",
+            "question": "Each question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+            "options": [
+                "<b> Click here</b> if you have reviewed all the instructions and question details."
+            ],
+            "correct": 0
+        },
+        {
+            "id": 1,
+            "question": "DIVA:OPERA",
+            "options": ["producer:theatre", "director:drama", "conductor:bus", "thespian:play"],
+            "correct": 3
+        },
+        {
+            "id": 2,
+            "question": "GRAIN:SALT",
+            "options": ["shard:pottery", "shred:wood", "blades:grass", "chip:glass"],
+            "correct": 3
+        },
+        {
+            "id": 3,
+            "question": "THRUST:SPEAR",
+            "options": ["mangle:iron", "scabbard:sword", "bow:arrow", "fence:epee"],
+            "correct": 3
+        },
+        {
+            "id": 4,
+            "question": "PAIN:SEDATIVE",
+            "options": ["comfort:stimulant", "grief:consolation", "trance:narcotic", "ache:extraction"],
+            "correct": 1
+        },
+        {
+            "id": 5,
+            "question": "LIGHT:BLIND",
+            "options": ["speech:dumb", "language:deaf", "tongue:sound", "voice:vibration"],
+            "correct": 0
+        },
+        {
+            "id": 6,
+            "question": "WAN:COLOUR",
+            "options": ["corpulent:weight", "insipid:flavour", "pallid:complexion", "enigmatic:puzzle"],
+            "correct": 1
+        },
+        {
+            "id": 7,
+            "question": "PORK:PIG",
+            "options": ["rooster:chicken", "mutton:sheep", "steer:beef", "lobster:crustacean"],
+            "correct": 1
+        },
+        {
+            "id": 8,
+            "question": "AFTER:BEFORE",
+            "options": ["first:second", "present:past", "contemporary:historic", "successor:predecessor"],
+            "correct": 3
+        },
+        {
+            "id": 9,
+            "question": "INDIGENT:WEALTHY",
+            "options": ["angry:rich", "native:affluent", "gauche:graceful", "scholarly:erudite"],
+            "correct": 2
+        },
+        {
+            "id": 10,
+            "question": "DISTANCE:MILE",
+            "options": ["liquid:litre", "bushel:corn", "weight:scale", "fame:television"],
+            "correct": 0
+        },
+        {
+            "id": 11,
+            "question": "TEN:DECIMAL",
+            "options": ["seven:septet", "four:quartet", "two:binary", "five:quince"],
+            "correct": 2
+        },
+        {
+            "id": 12,
+            "question": "MUNDANE:SPIRITUAL",
+            "options": ["common:ghostly", "worldly:unworldly", "routine:novel", "secular:clerical"],
+            "correct": 1
+        },
+        {
+            "id": 13,
+            "question": "ARMY:LOGISTICS",
+            "options": ["business:strategy", "soldier:students", "war:logic", "team:individual"],
+            "correct": 0
+        },
+        {
+            "id": 14,
+            "question": "GRAVITY:PULL",
+            "options": ["iron:metal", "north pole:directions", "magnetism:attraction", "dust:desert"],
+            "correct": 2
+        },
+        {
+            "id": 15,
+            "question": "FILTER:WATER",
+            "options": ["curtail:activity", "expunge:book", "edit:text", "censor:play"],
+            "correct": 3
+        },
+        {
+            "id": 16,
+            "question": "HOPE:ASPIRES",
+            "options": ["love:elevates", "film:flam", "fib:lie", "fake:ordinary"],
+            "correct": 2
+        },
+        {
+            "id": 17,
+            "question": "CORPOREAL:SPIRITUAL",
+            "options": ["mesa:plateau", "moron:savant", "foreigner:immigrant", "pedagogue:teacher"],
+            "correct": 1
+        },
+        {
+            "id": 18,
+            "question": "SYMPHONY:COMPOSER",
+            "options": ["Leonardo:music", "Fresco:painter", "colours:pallet", "art:appreciation"],
+            "correct": 1
+        }
+    ]
+  }
+  

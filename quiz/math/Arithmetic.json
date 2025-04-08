@@ -1,0 +1,276 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "A batsman scored 110 runs which included 3 boundaries and 8 sixes. What percent of his total score did he make by running between the wickets?",
+            "options": [
+                "45%",
+                "500⁄11%",
+                "600⁄11%",
+                "55%"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 2,
+            "question": "Two students appeared at an examination. One secured 9 marks more than the other, and his marks were 56% of the sum of their marks. The marks obtained by them are:",
+            "options": [
+                "39, 30",
+                "41, 32",
+                "42, 33",
+                "43, 34"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 3,
+            "question": "A fruit seller had some apples. He sells 40% and still has 420 apples. Originally, he had:",
+            "options": [
+                "588 apples",
+                "600 apples",
+                "672 apples",
+                "700 apples"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 4,
+            "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+            "options": [
+                "1",
+                "14",
+                "20",
+                "21"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 5,
+            "question": "If A = x% of y and B = y% of x, which is true?",
+            "options": [
+                "A < B",
+                "A > B",
+                "Relationship undetermined",
+                "None of these"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 6,
+            "question": "If 20% of a = b, then b% of 20 is the same as:",
+            "options": [
+                "4% of a",
+                "5% of a",
+                "20% of a",
+                "None of these"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 7,
+            "question": "In a school, 20% are below 8 years. Students above 8 are 2/3 of 48 (students aged 8). Total students?",
+            "options": [
+                "72",
+                "80",
+                "120",
+                "150",
+                "100"
+            ],
+            "correct": 4
+        },
+        {
+            "id": 8,
+            "question": "Find the ratio A : B if 5% of A + 4% of B = 2/3(6% of A + 8% of B).",
+            "options": [
+                "2 : 3",
+                "1 : 1",
+                "3 : 4",
+                "4 : 3"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 9,
+            "question": "Percentage error if a student multiplied by 3/5 instead of 5/3.",
+            "options": [
+                "34%",
+                "44%",
+                "54%",
+                "64%"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 10,
+            "question": "In an election with 7500 votes (20% invalid), the other candidate got:",
+            "options": [
+                "2700",
+                "2900",
+                "3000",
+                "3100"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 11,
+            "question": "In the first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs?",
+            "options": [
+                "6.25",
+                "6.5",
+                "6.75",
+                "7"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 12,
+            "question": "A family consists of two grandparents, two parents, and three grandchildren. The average age of the grandparents is 67 years, that of the parents is 35 years, and that of the grandchildren is 6 years. What is the average age of the family?",
+            "options": [
+                "28 4⁄7 years",
+                "31 5⁄7 years",
+                "32 1⁄7 years",
+                "None of these"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 13,
+            "question": "A grocer has sales of Rs. 6435, Rs. 6927, Rs. 6855, Rs. 7230, and Rs. 6562 for 5 consecutive months. How much sale must he have in the sixth month to get an average sale of Rs. 6500?",
+            "options": [
+                "Rs. 4991",
+                "Rs. 5991",
+                "Rs. 6001",
+                "Rs. 6991"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 14,
+            "question": "The average of 20 numbers is zero. At most, how many may be greater than zero?",
+            "options": [
+                "0",
+                "1",
+                "10",
+                "19"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 15,
+            "question": "The average weight of 8 people increases by 2.5 kg when a new person replaces one weighing 65 kg. What might be the weight of the new person?",
+            "options": [
+                "76 kg",
+                "76.5 kg",
+                "85 kg",
+                "Data inadequate",
+                "None of these"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 16,
+            "question": "The captain (26 years) and wicketkeeper (29 years) of a cricket team are excluded. The average age of the remaining 9 players is one year less than the whole team’s average. What is the team’s average age?",
+            "options": [
+                "23 years",
+                "24 years",
+                "25 years",
+                "None of these"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 17,
+            "question": "The average monthly income of P and Q is Rs. 5050, Q and R is Rs. 6250, and P and R is Rs. 5200. What is P’s monthly income?",
+            "options": [
+                "3500",
+                "4000",
+                "4050",
+                "5000"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 18,
+            "question": "3 years ago, the average age of husband, wife, and child was 27. 5 years ago, the average age of wife and child was 20. What is the husband’s present age?",
+            "options": [
+                "35 years",
+                "40 years",
+                "50 years",
+                "None of these"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 19,
+            "question": "A car owner buys petrol at Rs.7.50, Rs. 8 and Rs. 8.50 per litre for three successive years. If he spends Rs. 4000 each year, what is the approximate average cost per litre of petrol?",
+            "options": ["Rs. 7.98", "Rs. 8", "Rs. 8.50", "Rs. 9"],
+            "correct": 0
+        },
+        {
+            "id": 20,
+            "question": "Arun believes his weight is between 65 kg and 72 kg. His brother thinks it is between 60 kg and 70 kg. His mother believes it cannot be greater than 68 kg. If all are correct, what is the average of the different probable weights of Arun?",
+            "options": ["67 kg.", "68 kg.", "69 kg.", "Data inadequate", "None of these"],
+            "correct": 0
+        },
+        {
+            "id": 21,
+            "question": "A and B together have Rs. 1210. If 1/2 of A's amount is equal to 1/3 of B's amount, how much amount does B have?",
+            "options": ["Rs. 460", "Rs. 484", "Rs. 550", "Rs. 664"],
+            "correct": 1
+        },
+        {
+            "id": 22,
+            "question": "Two numbers are respectively 20% and 50% more than a third number. What is the ratio of the two numbers?",
+            "options": ["2 : 5", "3 : 5", "4 : 5", "6 : 7"],
+            "correct": 2
+        },
+        {
+            "id": 23,
+            "question": "A sum of money is to be distributed among A, B, C, and D in the proportion of 5 : 2 : 4 : 3. If C gets Rs. 1000 more than D, what is B's share?",
+            "options": ["Rs. 500", "Rs. 1500", "Rs. 2000", "None of these"],
+            "correct": 2
+        },
+        {
+            "id": 24,
+            "question": "Seats for Mathematics, Physics, and Biology in a school are in the ratio 5 : 7 : 8. If they are increased by 40%, 50%, and 75% respectively, what will be the new ratio?",
+            "options": ["2 : 3 : 4", "6 : 7 : 8", "6 : 8 : 9", "None of these"],
+            "correct": 0
+        },
+        {
+            "id": 25,
+            "question": "In a 60-litre mixture, the ratio of milk to water is 2 : 1. To change the ratio to 1 : 2, how much water should be added?",
+            "options": ["20 litres", "30 litres", "40 litres", "60 litres"],
+            "correct": 3
+        },
+        {
+            "id": 26,
+            "question": "The ratio of boys to girls in a college is 7 : 8. If boys and girls increase by 20% and 10% respectively, what will be the new ratio?",
+            "options": ["8 : 9", "17 : 18", "21 : 22", "Cannot be determined"],
+            "correct": 2
+        },
+        {
+            "id": 27,
+            "question": "Ravi and Sumit's salaries are in the ratio 2 : 3. After a Rs. 4000 increase each, the new ratio becomes 40 : 57. What is Sumit's salary?",
+            "options": ["Rs. 17,000", "Rs. 20,000", "Rs. 25,500", "Rs. 38,000"],
+            "correct": 3
+        },
+        {
+            "id": 28,
+            "question": "If 0.75 : x :: 5 : 8, then x is equal to:",
+            "options": ["1.12", "1.2", "1.25", "1.30"],
+            "correct": 1
+        },
+        {
+            "id": 29,
+            "question": "The sum of three numbers is 98. The ratio of the first to second is 2 : 3, and the second to third is 5 : 8. What is the second number?",
+            "options": ["20", "30", "48", "58"],
+            "correct": 1
+        },
+        {
+            "id": 30,
+            "question": "If Rs. 782 is divided into three parts proportional to 1 : 2 : 3, what is the first part?",
+            "options": ["Rs. 182", "Rs. 190", "Rs. 196", "Rs. 204"],
+            "correct": 3
+        }
+    ]
+}

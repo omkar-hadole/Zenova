@@ -1,0 +1,339 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+      "options": [
+        "3.6",
+        "7.2",
+        "8.4",
+        "10"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "An aeroplane covers a certain distance at 240 kmph in 5 hours. To cover the same distance in 1 hour, it must travel at:",
+      "options": [
+        "300 kmph",
+        "360 kmph",
+        "600 kmph",
+        "720 kmph"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 3,
+      "question": "If a person walks at 14 km/hr instead of 10 km/hr, he would have walked 20 km more. The actual distance travelled by him is:",
+      "options": [
+        "50 km",
+        "56 km",
+        "70 km",
+        "80 km"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "A train travels 50% faster than a car. Both start from A and reach B (75 km away) at the same time, but the train loses 12.5 minutes stopping. The speed of the car is:",
+      "options": [
+        "100 kmph",
+        "110 kmph",
+        "120 kmph",
+        "130 kmph"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "Excluding stoppages, a bus's speed is 54 kmph; including stoppages, it is 45 kmph. How many minutes does the bus stop per hour?",
+      "options": [
+        "9",
+        "10",
+        "12",
+        "20"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "In a 600 km flight, the aircraft's speed was reduced by 200 km/hr, increasing flight time by 30 minutes. The duration of the flight is:",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "3 hours",
+        "4 hours"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "A man completes a journey in 10 hours, travelling the first half at 21 km/hr and the second half at 24 km/hr. Total journey is:",
+      "options": [
+        "220 km",
+        "224 km",
+        "230 km",
+        "234 km"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "The ratio of speeds of two trains is 7 : 8. If the second train runs 400 km in 4 hours, the speed of the first train is:",
+      "options": [
+        "70 km/hr",
+        "75 km/hr",
+        "84 km/hr",
+        "87.5 km/hr"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 9,
+      "question": "A man travels first 160 km at 64 km/hr and next 160 km at 80 km/hr. Average speed for 320 km is:",
+      "options": [
+        "35.55 km/hr",
+        "36 km/hr",
+        "71.11 km/hr",
+        "71 km/hr"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "A car covers 42 km in 1 hr 40 min 48 sec at 5/7 of its actual speed. Find the actual speed:",
+      "options": [
+        "125⁄7 km/hr",
+        "25 km/hr",
+        "30 km/hr",
+        "35 km/hr"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 11,
+      "question": "Alfred buys a scooter for Rs. 4700, spends Rs. 800 on repairs, and sells it for Rs. 5800. His gain percent is:",
+      "options": [
+        "32⁄7%",
+        "60⁄11%",
+        "10%",
+        "12%"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": "The cost price of 20 articles equals the selling price of x articles. If profit is 25%, then x is:",
+      "options": [
+        "15",
+        "16",
+        "18",
+        "25"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "If selling price is doubled, the profit triples. Find the profit percent:",
+      "options": [
+        "200⁄3%",
+        "100%",
+        "316⁄3%",
+        "120%"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "Profit is 320% of cost. If cost increases by 25% and selling price remains constant, new profit as a percentage of selling price is:",
+      "options": [
+        "30%",
+        "70%",
+        "100%",
+        "250%"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "A vendor bought toffees at 6 for a rupee. How many must he sell for a rupee to gain 20%?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "Percentage profit earned by selling an article for Rs. 1920 equals the percentage loss when sold for Rs. 1280. To make 25% profit, selling price should be:",
+      "options": [
+        "Rs. 2000",
+        "Rs. 2200",
+        "Rs. 2400",
+        "Data inadequate"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "A shopkeeper expects a 22.5% gain on cost price. If his weekly sale is Rs. 392, his profit is:",
+      "options": [
+        "Rs. 18.20",
+        "Rs. 70",
+        "Rs. 72",
+        "Rs. 88.25"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": "A man buys a cycle for Rs. 1400 and sells it at a 15% loss. Selling price is:",
+      "options": [
+        "Rs. 1090",
+        "Rs. 1160",
+        "Rs. 1190",
+        "Rs. 1202"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": "Sam bought 20 dozen toys at Rs. 375 per dozen and sold each at Rs. 33. His percentage profit is:",
+      "options": [
+        "3.5",
+        "4.5",
+        "5.6",
+        "6.5"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "Articles bought at 6 for Rs. 5 and sold at 5 for Rs. 6. Gain percent is:",
+      "options": [
+        "30%",
+        "33 1⁄3%",
+        "35%",
+        "44%"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 21,
+      "question": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+      "options": [
+        "Rs. 650",
+        "Rs. 690",
+        "Rs. 698",
+        "Rs. 700"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 22,
+      "question": "Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?",
+      "options": [
+        "Rs. 6400",
+        "Rs. 6500",
+        "Rs. 7200",
+        "Rs. 7500",
+        "None of these"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "question": "A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?",
+      "options": [
+        "Rs. 4462.50",
+        "Rs. 8032.50",
+        "Rs. 8900",
+        "Rs. 8925",
+        "None of these"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 24,
+      "question": "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
+      "options": [
+        "3.5 years",
+        "4 years",
+        "4.5 years",
+        "5 years"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "question": "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
+      "options": [
+        "3.6",
+        "6",
+        "18",
+        "Cannot be determined",
+        "None of these"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "question": "A sum of Rs. 12,500 amounts to Rs. 15,500 in 4 years at the rate of simple interest. What is the rate of interest?",
+      "options": [
+        "3%",
+        "4%",
+        "5%",
+        "6%",
+        "None of these"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 27,
+      "question": "An automobile financier claims to be lending money at simple interest, but he includes the interest every six months for calculating the principal. If he is charging an interest of 10%, the effective rate of interest becomes:",
+      "options": [
+        "10%",
+        "10.25%",
+        "10.5%",
+        "None of these"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 28,
+      "question": "A lent Rs. 5000 to B for 2 years and Rs. 3000 to C for 4 years on simple interest at the same rate of interest and received Rs. 2200 in all from both of them as interest. The rate of interest per annum is:",
+      "options": [
+        "5%",
+        "7%",
+        "7.5%",
+        "10%"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 29,
+      "question": "A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at the rate twice the former. At the end of the year, Rs. 33.50 is earned as interest from both the loans. What was the original rate of interest?",
+      "options": [
+        "3.6%",
+        "4.5%",
+        "5%",
+        "6%",
+        "None of these"
+      ],
+      "correct": 4
+    },
+    {
+      "id": 30,
+      "question": "A man took loan from a bank at the rate of 12% p.a. simple interest. After 3 years he had to pay Rs. 5400 interest only for the period. The principal amount borrowed by him was:",
+      "options": [
+        "Rs. 2000",
+        "Rs. 10,000",
+        "Rs. 15,000",
+        "Rs. 20,000"
+      ],
+      "correct": 2
+    }
+  ]
+}

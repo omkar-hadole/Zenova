@@ -1,0 +1,121 @@
+{
+    "questions": [
+        {
+            "id": "#",
+            "question": "Read the following passage and answer the question that follows.",
+            "options": [
+                "<b> Click here</b> if you have reviewed all the instructions and question details."
+            ],
+            "correct": 0,
+            "image": "qusImage/comprehension4_1.png"
+        },
+        {
+            "id": 1,
+            "question": "According to the passage, Buddhist economists are not in favour of",
+            "options": [
+                "measuring everything in terms of money",
+                "using non-renewable sources",
+                "economic development",
+                "applying non-violence to every sphere of life"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 2,
+            "question": "In this passage the author is trying to",
+            "options": [
+                "differentiate between renewable and non-renewable materials",
+                "show that the modern economist is only concerned with costs",
+                "underline the need for conserving natural resources",
+                "differentiate between two economic philosophies"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 3,
+            "question": "Fill in the blanks with the appropriate pair of phrases: The passage suggests that while a modern economist considers it uneconomic to use ...... form of fuel, a Buddhist economist considers it uneconomic to use ...... form of fuel",
+            "options": [
+                "a cheap, a renewable",
+                "an irrational, an essential",
+                "an expensive, a non-renewable",
+                "a rational, an unessential"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 4,
+            "question": "The Buddhist economist's attitude implies that fuels like coal and oil must be used only if",
+            "options": [
+                "there is a plentiful supply",
+                "wood and water can be dispensed with",
+                "the relative cost of each is less than that of wood and water",
+                "there is no alternative fuel available"
+            ],
+            "correct": 3
+        },
+        {
+            "id": "#",
+            "question": "Read the following passage and answer the question that follows.",
+            "options": [
+                "<b> Click here</b> if you have reviewed all the instructions and question details."
+            ],
+            "correct": 0,
+            "image": "qusImage/comprehension4_2.png"
+        },
+        {
+            "id": 1,
+            "question": "The industry needs a literate work-force because",
+            "options": [
+                "its expansion needs sound learning",
+                "it relies heavily on expertise",
+                "it promotes a competitive spirit",
+                "its operations need intricate technical knowledge"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 2,
+            "question": "The author argues that",
+            "options": [
+                "formal education can be traced to industrial society",
+                "industrial society is responsible for expansion of education at mass level",
+                "industrial society gave rise to vocational education",
+                "industrial society changed the pattern of education"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 3,
+            "question": "The observation of the Sociologists are based on a study of",
+            "options": [
+                "the statistical data available in a historical context",
+                "economic system of the 19th century",
+                "the correlation between industry and education in a historical context",
+                "growth of industry 19th century"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 4,
+            "question": "The Sociologists referred to it in the passage say that the relationship between industry and elementary education was one",
+            "options": [
+                "based on mutual need",
+                "based entirely on the need of the industry",
+                "based entirely on economic need",
+                "based on some inexplicable historical forces"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 5,
+            "question": "By 'functional relationship' is meant",
+            "options": [
+                "a short-term relationship",
+                "practical and utilitarian relationship",
+                "temporary arrangement",
+                "close and unbreakable relationship"
+            ],
+            "correct": 1
+        }
+    ]
+}

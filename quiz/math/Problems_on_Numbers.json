@@ -1,0 +1,229 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which one of the following is not a prime number?",
+            "options": [
+                "31",
+                "61",
+                "71",
+                "91"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 2,
+            "question": "(112 × 5⁴) = ?",
+            "options": [
+                "67000",
+                "70000",
+                "76500",
+                "77200"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 3,
+            "question": "It is given that (2³² + 1) is divisible by a whole number. Which of the following is divisible by this number?",
+            "options": [
+                "(2¹⁶ + 1)",
+                "(2¹⁶ − 1)",
+                "(7 × 2²³)",
+                "(2⁹⁶ + 1)"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 4,
+            "question": "What least number must be added to 1056 to make it completely divisible by 23?",
+            "options": [
+                "2",
+                "3",
+                "18",
+                "21",
+                "None of these"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 5,
+            "question": "1397 × 1397 = ?",
+            "options": [
+                "1951609",
+                "1981709",
+                "18362619",
+                "2031719",
+                "None of these"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 6,
+            "question": "How many of the following numbers are divisible by 132? [264, 396, 462, 792, 968, 2178, 5184, 6336]",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 7,
+            "question": "(935421 × 625) = ?",
+            "options": [
+                "575648125",
+                "584638125",
+                "584649125",
+                "585628125"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 8,
+            "question": "The largest 4-digit number exactly divisible by 88 is:",
+            "options": [
+                "9944",
+                "9768",
+                "9988",
+                "8888",
+                "None of these"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 9,
+            "question": "Which of the following is a prime number?",
+            "options": [
+                "33",
+                "81",
+                "93",
+                "97"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 10,
+            "question": "What is the unit digit in {(6374)¹⁷⁹³ × (625)³¹⁷ × (341⁴⁹¹)}?",
+            "options": [
+                "0",
+                "2",
+                "3",
+                "5"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 11,
+            "question": "If one-third of one-fourth of a number is 15, then three-tenth of that number is:",
+            "options": [
+                "35",
+                "36",
+                "45",
+                "54"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 12,
+            "question": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is:",
+            "options": [
+                "9",
+                "11",
+                "13",
+                "15"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 13,
+            "question": "The difference between a two-digit number and the number obtained by interchanging the positions of its digits is 36. What is the difference between the two digits of that number?",
+            "options": [
+                "3",
+                "4",
+                "9",
+                "Cannot be determined",
+                "None of these"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 14,
+            "question": "The difference between a two-digit number and the number obtained by interchanging the digits is 36. What is the difference between the sum and the difference of the digits of the number if the ratio between the digits of the number is 1 : 2?",
+            "options": [
+                "4",
+                "8",
+                "16",
+                "None of these"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 15,
+            "question": "A two-digit number is such that the product of the digits is 8. When 18 is added to the number, then the digits are reversed. The number is:",
+            "options": [
+                "18",
+                "24",
+                "42",
+                "81"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 16,
+            "question": "The sum of the digits of a two-digit number is 15 and the difference between the digits is 3. What is the two-digit number?",
+            "options": [
+                "69",
+                "78",
+                "96",
+                "Cannot be determined",
+                "None of these"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 17,
+            "question": "The sum of the squares of three numbers is 138, while the sum of their products taken two at a time is 131. Their sum is:",
+            "options": [
+                "20",
+                "30",
+                "40",
+                "None of these"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 18,
+            "question": "A number consists of two digits. If the digits interchange places and the new number is added to the original number, then the resulting number will be divisible by:",
+            "options": [
+                "3",
+                "5",
+                "9",
+                "11"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 19,
+            "question": "In a two-digit number, if it is known that its unit's digit exceeds its ten's digit by 2 and that the product of the given number and the sum of its digits is equal to 144, then the number is:",
+            "options": [
+                "24",
+                "26",
+                "42",
+                "46"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 20,
+            "question": "Find a positive number which when increased by 17 is equal to 60 times the reciprocal of the number.",
+            "options": [
+                "3",
+                "10",
+                "17",
+                "20"
+            ],
+            "correct": 0
+        }
+    ]
+}

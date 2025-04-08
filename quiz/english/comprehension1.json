@@ -1,0 +1,132 @@
+{
+    "questions": [
+        {
+            "id": "#",
+            "question": "Read the following passage and answer the question that follows.",
+            "options": [
+                "<b> Click here</b> if you have reviewed all the instructions and question details."
+            ],
+            "correct": 0,
+            "image": "qusImage/comprehension1_1.png"
+        },
+        {
+            "id": 1,
+            "question": "The intense Middle Class intensely yearns for",
+            "options": [
+                "better material resources",
+                "extensive practice of corruption",
+                "clean honest society",
+                "law of increasing returns"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 2,
+            "question": "Teachers are not high on the list of corruption because they do not have",
+            "options": [
+                "courage",
+                "opportunities",
+                "support",
+                "ambition"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 3,
+            "question": "The Indian Middle class is",
+            "options": [
+                "defiant",
+                "mysterious",
+                "homogeneous",
+                "stratified"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 4,
+            "question": "Who figures on top of the list of corruption?",
+            "options": [
+                "businessmen",
+                "lawyers",
+                "politicians",
+                "policemen"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 5,
+            "question": "This yearning, over the years, has",
+            "options": [
+                "persisted",
+                "soared",
+                "declined",
+                "disappeared"
+            ],
+            "correct": 0
+        },
+        {
+            "id":"#",
+            "question": "Read the following passage and answer the question that follows.",
+            "options": [
+                "<b> Click here</b> if you have reviewed all the instructions and question details."
+            ],
+            "correct": 0,
+            "image": "qusImage/comprehension1_2.png"
+        },
+        {
+            "id": 1,
+            "question": "Children whose curiosity survives parental discipline means",
+            "options": [
+                "children retaining their curiosity in spite of being discouraged by their parents",
+                "children pursuing their mental curiosity",
+                "children's curiosity subdued due to parents intervention",
+                "children being disciplined by their parents"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 2,
+            "question": "According to their passage, the children make life difficult for their parents",
+            "options": [
+                "by their ceaseless curiosity",
+                "by unceasing bombardment of questions",
+                "by asking irrelevant questions",
+                "by posing profound questions"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 3,
+            "question": "The common people consider some of the questions that the scholars ask unimportant",
+            "options": [
+                "as they are too lazy and idle",
+                "as they are too modest",
+                "as it's beyond their comprehension",
+                "as it is considered a waste of time"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 4,
+            "question": "A historian really studies the past",
+            "options": [
+                "to comprehend the present and to reconstruct the future",
+                "to explain the present and plan the future",
+                "to understand the present and make fortune",
+                "to understand the present and mould the future"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 5,
+            "question": "According to their passage, parents do their best to discourage curiosity in their children",
+            "options": [
+                "because they have no time",
+                "because they have no patience to answer them",
+                "because they feel that their children ask stupid questions continuously",
+                "because they are unable to answer all the questions"
+            ],
+            "correct": 3
+        }
+    ]
+}

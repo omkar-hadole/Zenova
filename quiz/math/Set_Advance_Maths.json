@@ -1,0 +1,151 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "",
+            "options": [
+                "[1,10]",
+                "(-infinity,1],[10,infinity)",
+                "(1,10)",
+                "[-1,10]"
+            ],
+            "correct": 3,
+            "image": "qusImage/Set_Advance_Maths_1.png"
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [
+                "One-to-one and onto",
+                "Neither one-to-one nor onto",
+                "One-to-one but not onto",
+                "Onto but not one-to-one"
+            ],
+            "correct": 1,
+            "image": "qusImage/Set_Advance_Maths_2.png"
+        },
+        {
+            "id": 3,
+            "question": "",
+            "options": [
+                "0",
+                "20",
+                "16",
+                "18"
+            ],
+            "correct": 1,
+            "image": "qusImage/Set_Advance_Maths_3.png"
+        },
+        {
+            "id": 4,
+            "question": "",
+            "options": [
+                "0",
+                "1",
+                "-1",
+                "9"
+            ],
+            "correct": 2,
+            "image": "qusImage/Set_Advance_Maths_4.png"
+        },
+        {
+            "id": 5,
+            "question": "",
+            "options": [
+                "1390",
+                "1382",
+                "383",
+                "391"
+            ],
+            "correct": 1,
+            "image": "qusImage/Set_Advance_Maths_5.png"
+        },
+        {
+            "id": 6,
+            "question": "",
+            "options": [
+                "1",
+                "0",
+                "-1",
+                "Do not exist"
+            ],
+            "correct": 0,
+            "image": "qusImage/Set_Advance_Maths_6.png"
+        },
+        {
+            "id": 7,
+            "question": "The number of 4-digit numbers divisible by 6 that can be formed using the numbers {2,3,5,6} is <br><br>(Note: There might be an error in the question or options, so double-check calculations.)",
+            "options": [
+                "26",
+                "25",
+                "20",
+                "30"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 8,
+            "question": "",
+            "options": [
+                "10",
+                "3",
+                "6",
+                "5"
+            ],
+            "correct": 1,
+            "image": "qusImage/Set_Advance_Maths_8.png"
+        },
+        {
+            "id": 9,
+            "question": "",
+            "options": [
+                "ln(2)-2",
+                "ln(2)",
+                "ln(2)-1",
+                "2"
+            ],
+            "correct": 2,
+            "image": "qusImage/Set_Advance_Maths_9.png"
+        },
+        {
+            "id": 10,
+            "question": "",
+            "options": ["6.2", "5.9", "2.6", "5.6"],
+  "correct": 2,
+            "image": "qusImage/Set_Advance_Maths_10.png"
+        },
+        {
+            "id": 11,
+            "question": "If a point (x,y) is chosen from the area bounded by the curves y=2x, y=-2x+8 and the x-axis, then the probability that y>2 is:",
+            "options": ["0.15", "0.25", "0.50", "0.65"],
+            "correct": 1
+          },
+          {
+            "id": 12,
+            "question": "Match the following <br><br>(Note: There might be an error in the question or options, so double-check calculations.)",
+            "options": ["I-->Q,II-->P,III-->Q,IV-->T,V-->R", "I-->R,II-->P,III-->Q,IV-->S,V-->T", "I-->R,II-->P,III-->Q,IV-->T,V-->R", "I-->R,II-->Q,III-->P,IV-->T,V-->R"],
+            "correct": 2,
+            "image": "qusImage/Set_Advance_Maths_12.png"
+          },
+          {
+            "id": 13,
+            "question": "",
+            "options": ["tan(x³y) + xy³cos(xy) = 10", "tan(x³y) + xy³sin(xy) = 10", "tan(x³y) + xy³sin(xy) = 0", "sec(x³y) + xy³sin(xy) = 0"],
+            "correct": 2,
+            "image": "qusImage/Set_Advance_Maths_13.png"
+          },
+          {
+            "id": 14,
+            "question": "Neha is playing a virtual chef game. She gets 20 points for making a burger, 30 points for making a sandwich, 40 points for making fries, and an extra 10 points if she adds spice to the fries. Find the probability that she made at least one sandwich given that she scored 150 points. <br><br>(Note: There might be an error in the question or options, so double-check calculations.)",
+            "options": ["9/13", "3/4", "7/11", "2/3"],
+            "correct": 1
+          },
+          {
+            "id": 15,
+            "question": "(Note: There might be an error in the question or options, so double-check calculations.)",
+            "options": ["4", "5", "3", "2"],
+            "correct": 2,
+            "image": "qusImage/Set_Advance_Maths_15.png"
+          }
+    ]
+}

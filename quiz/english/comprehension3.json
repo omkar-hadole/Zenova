@@ -1,0 +1,132 @@
+{
+    "questions": [
+        {
+            "id": "#",
+            "question": "Read the following passage and answer the question that follows.",
+            "options": [
+                "<b> Click here</b> if you have reviewed all the instructions and question details."
+            ],
+            "correct": 0,
+            "image": "qusImage/comprehension3_1.png"
+        },
+        {
+            "id": 1,
+            "question": "Dantes was in",
+            "options": [
+                "a hostel",
+                "a dining room",
+                "an army barracks",
+                "a prison"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 2,
+            "question": "Dantes heard the key grate in the lock when the",
+            "options": [
+                "cell door was shut",
+                "cell door was opened",
+                "storeroom was opened",
+                "storeroom was shut"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 3,
+            "question": "The guard left the fragments because he",
+            "options": [
+                "didn't notice them",
+                "wished to punish Dantes",
+                "was too lazy to bother",
+                "wanted Dantes to clear up"
+            ],
+            "correct": 2
+        },
+        {
+            "id":4,
+            "question": "Dantes probably broke the jug",
+            "options": [
+                "in the morning",
+                "during the night",
+                "after breakfast",
+                "at exactly 3pm"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 5,
+            "question": "Dantes was planning to",
+            "options": [
+                "carve his name",
+                "make his escape",
+                "tease the guard",
+                "call for breakfast"
+            ],
+            "correct": 1
+        },
+        {
+            "id": "#",
+            "question": "Read the following passage and answer the question that follows.",
+            "options": [
+                "<b> Click here</b> if you have reviewed all the instructions and question details."
+            ],
+            "correct": 0,
+            "image": "qusImage/comprehension3_2.png"
+        },
+        {
+            "id": 1,
+            "question": "In this passage, the phrase 'God in man' implies",
+            "options": [
+                "God having assumed the shape of man",
+                "neither fully godly nor fully human",
+                "man being transformed into God",
+                "the divine qualities in man"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 2,
+            "question": "The author uses the expression 'ugly deformities' to show his indignation at",
+            "options": [
+                "political organisations",
+                "the liberation of human consciousness",
+                "selfishness and materialism of the people",
+                "the drunken orgies of power"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 3,
+            "question": "According to the author, 'salvation' of human beings lies in the",
+            "options": [
+                "extended trade relations",
+                "spiritual transformation of life",
+                "orgy of national pride",
+                "wholehearted participation in political organisations"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 4,
+            "question": "In the phrase 'the birth of Man in the consciousness of men', Man stands for",
+            "options": [
+                "power and arrogance",
+                "egocentricity",
+                "noble human qualities",
+                "an idealistic notion of the human self"
+            ],
+            "correct": 3
+        },
+        {
+            "id": 5,
+            "question": "People jeer at the 'birth of Man' in the human consciousness when they",
+            "options": [
+                "begin to think of themselves as God",
+                "become power hungry",
+                "restructure the social system",
+                "become mentally deranged"
+            ],
+            "correct": 1
+        }
+    ]
+}

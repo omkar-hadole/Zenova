@@ -1,0 +1,127 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "",
+            "options": [
+                "0",
+                "a²",
+                "-a²",
+                "1"
+            ],
+            "correct": 1,
+            "image": "qusImage/Set_Basic_Maths_1.png"
+        },
+        {
+            "id": 2,
+            "question": "Each of the two siblings, John and Sarah, has an odd-numbered marble collection. The greatest common factor of both the collections is the same, which is 9. When they put their marbles together, the total number of marbles they have will be divisible by which of the following numbers?",
+            "options": [
+              "10",
+              "12",
+              "15",
+              "18"
+            ],
+            "correct": 3
+          },
+          {
+            "id": 3,
+            "question": "A gardener gets paid in two ways: Rs. 300 for every ten metres of hedge he trims and Rs. 20 for every additional metre. During a week he trims 10 metres on the first day, 13 metres on the second day, 12 metres on the third day, 11 metres on the fourth day and 12 metres on the fifth day. What is his average daily income in rupees for a five-day work week?",
+            "options": [
+              "Rs 332",
+              "Rs 336",
+              "Rs 415",
+              "Rs 505"
+            ],
+            "correct": 0
+          },
+          {
+            "id": 4,
+            "question": "For two years, Rajesh borrowed a specific sum from Karan at a fixed simple interest rate. He then gave the same amount to Vijay for the same time, compounded annually, at the same interest rate. Rajesh paid just Rs 4000 in simple interest but collected Rs 4200 in compound interest at the end of the two-year period. What is the interest rate?",
+            "options": [
+              "10%",
+              "15%",
+              "20%",
+              "35%"
+            ],
+            "correct": 0
+          },
+          {
+            "id": 5,
+            "question": "A piece of land was to be divided between Raj and Simran in the ratio of 3:2. However, Raj received one-fifth more of the total land than he was expecting because of a measurement error. In what ratio was the land divided between Raj and Simran?",
+            "options": [
+              "2:5",
+              "5:2",
+              "18:7",
+              "4:1"
+            ],
+            "correct": 2
+          },
+        {
+            "id": "6",
+            "question": "",
+            "options": [
+              "4:2",
+              "4:-2",
+              "-4:-2",
+              "-4:2"
+            ],
+            "correct": 1,
+            "image": "qusImage/Set_Basic_Maths_6.png"
+        },
+        {
+            "id": 7,
+            "question": "In a week, Aman sells 3000 apples. By selling the first 1800 apples at a certain profit, he recovers the entire amount of his expenses. On selling the next 450 apples he incurs a loss of 20%, and on the last 750 apples he incurs a loss of 40%. What is his overall profit margin?",
+            "options": [
+              "18%",
+              "27%",
+              "35%",
+              "40%"
+            ],
+            "correct": 1
+          },
+          {
+            "id": 8,
+            "question": "Bus A leaves City X at 6 a.m. and gets to City Y at 10 a.m. Another bus B departs City Y at 8 a.m. and arrives in City X at 11:30 a.m. At what time do the two buses meet on the way?",
+            "options": [
+              "8:36 a.m.",
+              "8:56 a.m.",
+              "9:00 a.m.",
+              "9:26 a.m."
+            ],
+            "correct": 1
+          },
+          {
+            "id": 9,
+            "question": "In a community event, the total number of participants is 80. For the refreshment, the cost per participant for men is Rs. 10 less than the number of women attending, and the cost per woman is Rs. 10 less than the number of men present. If the total expenses for women and men are in a ratio of 5:6, what is the cost per woman?",
+            "options": [
+              "Rs 20",
+              "Rs 30",
+              "Rs 40",
+              "Rs 50"
+            ],
+            "correct": 0
+          },
+          {
+            "id": 10,
+            "question": "A person bought a computer and a piece of art at the same time. Over the course of the first two years, the computer’s worth decreased by 20% while the value of the art increased by 40%. Over the following two years, there was a further 40% decrease in the computer’s value and a 25% increase in the value of art. Over the next two years, the computer’s worth decreased by 25% while the value of art increased by 20%. At the end of the sixth year, if he had sold the computer along with the artwork, he would have made 75% more money from the artwork than from the computer. How much less did he pay for the piece of art compared to the computer when he bought them?",
+            "options": [
+              "50%",
+              "60%",
+              "70%",
+              "80%"
+            ],
+            "correct": 2
+          },
+          {
+            "id": 11,
+            "question": "A shopkeeper buys two articles, the first of which he marks up by Rs 200 over cost and gives a 20% discount, and the second of which he marks up by 50% and gives Rs 160 discount. If the shopkeeper makes a profit of 15% on both articles together and 8% on the first article alone, find the profit percentage on the second article?",
+            "options": [
+              "18%",
+              "21%",
+              "22%",
+              "25%"
+            ],
+            "correct": 2
+          }
+    ]
+}
